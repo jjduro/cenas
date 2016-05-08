@@ -1,0 +1,615 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Portugal ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Portugal ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/540.ts
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP1 HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",RTP1 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/547.ts
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium" group-title="►►► Portugal ◄◄◄",RTP 1
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/1.ts
+#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1 (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium" group-title="►►► Portugal ◄◄◄",RTP 1 (LOW)
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/137.ts
+#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png/medium" group-title="►►► Portugal ◄◄◄",RTP 2
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/2.ts
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",SIC HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/548.ts
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium" group-title="►►► Portugal ◄◄◄",SIC
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/3.ts
+#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium" group-title="►►► Portugal ◄◄◄",SIC (LOW)
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/138.ts
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",TVI HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/549.ts
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium" group-title="►►► Portugal ◄◄◄",TVI
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/4.ts
+#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium" group-title="►►► Portugal ◄◄◄",TVI (LOW)
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVI REALITY" tvg-logo="http://www.tvi.iol.pt/img/reality/topo.jpg" group-title="►►► Portugal ◄◄◄",TVI REALITY
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/121.ts
+#EXTINF:-1 tvg-ID="TVI Ficção" tvg-name="TVI FICÇAO" tvg-logo="http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium" group-title="►►► Portugal ◄◄◄",TVI FICÇAO
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/31.ts
+#EXTINF:-1 tvg-ID="CanalQB" tvg-name="CANAL Q" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqqwq1436891473.png/medium" group-title="►►► Portugal ◄◄◄",CANAL Q
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/9.ts
+#EXTINF:-1 tvg-ID="SICCARAS" tvg-name="SIC CARAS" tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png/medium" group-title="►►► Portugal ◄◄◄",SIC CARAS
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/32.ts
+#EXTINF:-1 tvg-ID="SICR" tvg-name="SIC RADICAL" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png/medium" group-title="►►► Portugal ◄◄◄",SIC RADICAL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/8.ts
+#EXTINF:-1 tvg-ID="SICM" tvg-name="SIC MULHER" tvg-logo="http://www.thelogodb.com/images/media/logo/suyuur1436891341.png/medium" group-title="►►► Portugal ◄◄◄",SIC MULHER
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/7.ts
+#EXTINF:-1 tvg-ID="RTPM" tvg-name="RTP MEMORIA" tvg-logo="http://www.thelogodb.com/images/media/logo/rpquyv1446848022.png/medium" group-title="►►► Portugal ◄◄◄",RTP MEMORIA
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/122.ts
+#EXTINF:-1 tvg-ID="RTPM" tvg-name="RTP MADEIRA" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png/medium" group-title="►►► Portugal ◄◄◄",RTP MADEIRA
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/182.ts
+#EXTINF:-1 tvg-ID="RTPA" tvg-name="RTP AFRICA" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/medium" group-title="►►► Portugal ◄◄◄",RTP AFRICA
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/183.ts
+#EXTINF:-1 tvg-ID="RTPA" tvg-name="RTP AÇORES" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/medium" group-title="►►► Portugal ◄◄◄",RTP AÇORES
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/184.ts
+#EXTINF:-1 tvg-ID="RTP international" tvg-name="RTP INTERNACIONAL" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png/medium" group-title="►►► Portugal ◄◄◄",RTP INTERNACIONAL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/170.ts
+#EXTINF:-1 tvg-ID="TV RECORD HD" tvg-name="TV RECORD" tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium" group-title="►►► Portugal ◄◄◄",TV RECORD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/63.ts
+#EXTINF:-1 tvg-ID="Globo Premium" tvg-name="GLOBO PREMIUM" tvg-logo="http://www.thelogodb.com/images/media/logo/vqxxxt1436898683.png/medium" group-title="►►► Portugal ◄◄◄",GLOBO PREMIUM
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/61.ts
+#EXTINF:-1 tvg-ID="TV Globo Portugal" tvg-name="GLOBO PORTUGAL" tvg-logo="http://www.thelogodb.com/images/media/logo/uxvspy1433473246.png/medium" group-title="►►► Portugal ◄◄◄",GLOBO PORTUGAL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Noticias ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Noticias ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CMTV HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",CMTV HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/551.ts
+#EXTINF:-1 tvg-ID="CMTV" tvg-name="CORREIO DA MANHA TV" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium" group-title="►►► Portugal ◄◄◄",CORREIO DA MANHA TV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ARTV" tvg-logo="" group-title="►►► Portugal ◄◄◄",ARTV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/561.ts
+#EXTINF:-1 tvg-ID="SICN" tvg-name="SIC NOTICIAS" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png/medium" group-title="►►► Portugal ◄◄◄",SIC NOTICIAS
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ETV HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",ETV HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/556.ts
+#EXTINF:-1 tvg-ID="TVI24" tvg-name="TVI 24" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium" group-title="►►► Portugal ◄◄◄",TVI 24
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/6.ts
+#EXTINF:-1 tvg-ID="RTP3" tvg-name="RTP 3" tvg-logo="http://www.thelogodb.com/images/media/logo/sprrps1460358907.png/medium" group-title="►►► Portugal ◄◄◄",RTP 3
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/76.ts
+#EXTINF:-1 tvg-ID="A Bola TV" tvg-name="A BOLA TV" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png/medium" group-title="►►► Portugal ◄◄◄",A BOLA TV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/50.ts
+#EXTINF:-1 tvg-ID="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/twwwyr1436891006.png/medium" group-title="►►► Portugal ◄◄◄",RECORD NEWS
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/59.ts
+#EXTINF:-1 tvg-ID="EURON" tvg-name="EURONEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium" group-title="►►► Portugal ◄◄◄",EURONEWS
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Desporto ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Desporto ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/534.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD." tvg-name="SPORTV 1 HD FULL HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",SPORTV 1 HD FULL HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/563.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV1 HD LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV1 HD LOW
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/112.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 HD (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 1 HD (LOW)
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/123.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 1 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/33.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT TV1" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png/medium" group-title="►►► Portugal ◄◄◄",SPORT TV1
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/119.ts
+#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT.TV 1 HQ" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png/medium" group-title="►►► Portugal ◄◄◄",SPORT.TV 1 HQ
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/248.ts
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/wwwxrx1436898851.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 2 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/34.ts
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/wwwxrx1436898851.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 2 HD (LOW)
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/124.ts
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORT.TV 2 HQ" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png/medium" group-title="►►► Portugal ◄◄◄",SPORT.TV 2 HQ
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/249.ts
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 2
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 HD FULL" tvg-logo="" group-title="►►► Portugal ◄◄◄",SPORTV 3 HD FULL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/565.ts
+#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rtwtyq1436898868.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 3 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/35.ts
+#EXTINF:-1 tvg-ID="SPORTV 4 HD" tvg-name="SPORTV 4 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/urrwxq1436898891.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 4 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 5 HD FULL" tvg-logo="" group-title="►►► Portugal ◄◄◄",SPORTV 5 HD FULL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/564.ts
+#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORTV 5 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qvppqr1436898909.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 5 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/37.ts
+#EXTINF:-1 tvg-ID="SPTV5" tvg-name="SPORTV 5" tvg-logo="http://www.thelogodb.com/images/media/logo/xvxrws1436898900.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 5
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BENFICA TV 1 HD FULL" tvg-logo="" group-title="►►► Portugal ◄◄◄",BENFICA TV 1 HD FULL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/567.ts
+#EXTINF:-1 tvg-ID="BENFICA TV 1 HD." tvg-name="BENFICA TV 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png/medium" group-title="►►► Portugal ◄◄◄",BENFICA TV 1 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/40.ts
+#EXTINF:-1 tvg-ID="BENFICA TV 1 HD" tvg-name="BENFICA TV1 (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" group-title="►►► Portugal ◄◄◄",BENFICA TV1 (LOW)
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/113.ts
+#EXTINF:-1 tvg-ID="BENFICA TV 1 HD" tvg-name="BTV 1 HD (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png/medium" group-title="►►► Portugal ◄◄◄",BTV 1 HD (LOW)
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/125.ts
+#EXTINF:-1 tvg-ID="BENFICA TV 1 HD" tvg-name="BENFICA TV 1" tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" group-title="►►► Portugal ◄◄◄",BENFICA TV 1
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/38.ts
+#EXTINF:-1 tvg-ID="BENFICA TV 2 HD" tvg-name="BENFICA TV 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rwsuxs1437950300.png/medium" group-title="►►► Portugal ◄◄◄",BENFICA TV 2 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/41.ts
+#EXTINF:-1 tvg-ID="Benfica TV 2" tvg-name="BENFICA TV 2" tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png/medium" group-title="►►► Portugal ◄◄◄",BENFICA TV 2
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/39.ts
+#EXTINF:-1 tvg-ID="SPORTING HD" tvg-name="SPORTING TV HD FULL" tvg-logo="" group-title="►►► Portugal ◄◄◄",SPORTING TV HD FULL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/566.ts
+#EXTINF:-1 tvg-ID="SPORTING HD" tvg-name="SPORTING TV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uvxsqy1436896740.png/medium" group-title="►►► Portugal ◄◄◄",SPORTING TV HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/43.ts
+#EXTINF:-1 tvg-ID="SPORTING HD" tvg-name="SPORTING TV" tvg-logo="http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png/medium" group-title="►►► Portugal ◄◄◄",SPORTING TV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/42.ts
+#EXTINF:-1 tvg-ID="PORTO" tvg-name="PORTO CANAL" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png/medium" group-title="►►► Portugal ◄◄◄",PORTO CANAL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/10.ts
+#EXTINF:-1 tvg-ID="PFC" tvg-name="PFC" tvg-logo="http://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" group-title="►►► Portugal ◄◄◄",PFC
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/46.ts
+#EXTINF:-1 tvg-ID="REAL MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium" group-title="►►► Portugal ◄◄◄",REAL MADRID TV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/47.ts
+#EXTINF:-1 tvg-ID="EUROSPORT 1" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/sqtsts1436891637.png/medium" group-title="►►► Portugal ◄◄◄",EUROSPORT 1 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/44.ts
+#EXTINF:-1 tvg-ID="EUROS2" tvg-name="EUROSPORT 2" tvg-logo="http://www.thelogodb.com/images/media/logo/wxuxrq1460807653.png/medium" group-title="►►► Portugal ◄◄◄",EUROSPORT 2
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/114.ts
+#EXTINF:-1 tvg-ID="MOTORVISIONHD" tvg-name="MOTORVISION" tvg-logo="http://www.thelogodb.com/images/media/logo/tprpvy1453990598.png/medium" group-title="►►► Portugal ◄◄◄",MOTORVISION
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/218.ts
+#EXTINF:-1 tvg-ID="Motors TV" tvg-name="MOTORS TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png/medium" group-title="►►► Portugal ◄◄◄",MOTORS TV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/45.ts
+#EXTINF:-1 tvg-ID="Toros TV" tvg-name="TOROS TV" tvg-logo="http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png/medium" group-title="►►► Portugal ◄◄◄",TOROS TV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FUEL TV" tvg-logo="http://www.thelogodb.com/images/media/logo/yxxrqw1436895628.png/medium" group-title="►►► Portugal ◄◄◄",FUEL TV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MCS LIFESTYLE" tvg-logo="" group-title="►►► Portugal ◄◄◄",MCS LIFESTYLE
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/546.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Kids ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Kids ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/536.ts
+#EXTINF:-1 tvg-ID="PANDABIGGS" tvg-name="PANDA BIGGS" tvg-logo="http://www.thelogodb.com/images/media/logo/sqttxp1433353102.png/medium" group-title="►►► Portugal ◄◄◄",PANDA BIGGS
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/48.ts
+#EXTINF:-1 tvg-ID="PANDA" tvg-name="PANDA" tvg-logo="http://www.thelogodb.com/images/media/logo/qwttxw1435106935.png/medium" group-title="►►► Portugal ◄◄◄",PANDA
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/67.ts
+#EXTINF:-1 tvg-ID="JimJam" tvg-name="JIM JAM" tvg-logo="http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium" group-title="►►► Portugal ◄◄◄",JIM JAM
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/210.ts
+#EXTINF:-1 tvg-ID="SIC K" tvg-name="SIC K" tvg-logo="http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png/medium" group-title="►►► Portugal ◄◄◄",SIC K
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/64.ts
+#EXTINF:-1 tvg-ID="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png/medium" group-title="►►► Portugal ◄◄◄",DISNEY JUNIOR
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/65.ts
+#EXTINF:-1 tvg-ID="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium" group-title="►►► Portugal ◄◄◄",DISNEY CHANNEL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/66.ts
+#EXTINF:-1 tvg-ID="Baby TV" tvg-name="BABY TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png/medium" group-title="►►► Portugal ◄◄◄",BABY TV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/239.ts
+#EXTINF:-1 tvg-ID="Nicke" tvg-name="NICKELODEON" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png/medium" group-title="►►► Portugal ◄◄◄",NICKELODEON
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/115.ts
+#EXTINF:-1 tvg-ID="CART" tvg-name="CARTOON NETWORK PT" tvg-logo="http://www.thelogodb.com/images/media/logo/rqswvs1435142683.png/medium" group-title="►►► Portugal ◄◄◄",CARTOON NETWORK PT
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Series & Movies ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Series & Movies ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/535.ts
+#EXTINF:-1 tvg-ID="TVC1" tvg-name="TVC 1 HD (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtrst1436898282.png/medium" group-title="►►► Portugal ◄◄◄",TVC 1 HD (LOW)
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/126.ts
+#EXTINF:-1 tvg-ID="TVC1" tvg-name="TVC1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtrst1436898282.png/medium" group-title="►►► Portugal ◄◄◄",TVC1 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/12.ts
+#EXTINF:-1 tvg-ID="TVC2" tvg-name="TVC2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rpssrv1436898306.png/medium" group-title="►►► Portugal ◄◄◄",TVC2 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/13.ts
+#EXTINF:-1 tvg-ID="TVC3" tvg-name="TVC3 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png/medium" group-title="►►► Portugal ◄◄◄",TVC3 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/14.ts
+#EXTINF:-1 tvg-ID="TVC4" tvg-name="TVC4 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qswqxx1436898355.png/medium" group-title="►►► Portugal ◄◄◄",TVC4 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/15.ts
+#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TVC SERIES HD" tvg-logo="http://www.thelogodb.com/images/media/logo/sprtwx1436898392.png/medium" group-title="►►► Portugal ◄◄◄",TVC SERIES HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/30.ts
+#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tupvuv1436899688.png/medium" group-title="►►► Portugal ◄◄◄",HOLLYWOOD HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/16.ts
+#EXTINF:-1 tvg-ID="Cinemundo" tvg-name="CINEMUNDO" tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png/medium" group-title="►►► Portugal ◄◄◄",CINEMUNDO
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/18.ts
+#EXTINF:-1 tvg-ID="MOVHD" tvg-name="MOV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png/medium" group-title="►►► Portugal ◄◄◄",MOV HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/19.ts
+#EXTINF:-1 tvg-ID="SyFy" tvg-name="Syfy HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",Syfy HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/552.ts
+#EXTINF:-1 tvg-ID="SyFy" tvg-name="SYFY" tvg-logo="http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png/medium" group-title="►►► Portugal ◄◄◄",SYFY
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/26.ts
+#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png/medium" group-title="►►► Portugal ◄◄◄",A&E
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/116.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://www.thelogodb.com/images/media/logo/txvtyy1441049730.png/medium" group-title="►►► Portugal ◄◄◄",AMC
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/178.ts
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png/medium" group-title="►►► Portugal ◄◄◄",AXN HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/20.ts
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png/medium" group-title="►►► Portugal ◄◄◄",AXN HD (LOW)
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/140.ts
+#EXTINF:-1 tvg-ID="AXN Black" tvg-name="AXN BLACK HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tstsvx1445114284.png/medium" group-title="►►► Portugal ◄◄◄",AXN BLACK HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/22.ts
+#EXTINF:-1 tvg-ID="AXN White" tvg-name="AXN WHITE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vvwysx1445114035.png/medium" group-title="►►► Portugal ◄◄◄",AXN WHITE HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/21.ts
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xquwxv1436847349.png/medium" group-title="►►► Portugal ◄◄◄",FOX HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/23.ts
+#EXTINF:-1 tvg-ID="FOXLIFE" tvg-name="FOX LIFE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ttvpyv1436846997.png/medium" group-title="►►► Portugal ◄◄◄",FOX LIFE HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png/medium" group-title="►►► Portugal ◄◄◄",FOX MOVIES
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/17.ts
+#EXTINF:-1 tvg-ID="FOXCRIME" tvg-name="FOX CRIME HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxut1436892701.png/medium" group-title="►►► Portugal ◄◄◄",FOX CRIME HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/25.ts
+#EXTINF:-1 tvg-ID="FOX COMEDY HD" tvg-name="FOX COMEDY" tvg-logo="http://www.thelogodb.com/images/media/logo/tqxpxq1448198387.png/medium" group-title="►►► Portugal ◄◄◄",FOX COMEDY
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Documentarios ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Documentarios ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/537.ts
+#EXTINF:-1 tvg-ID="NGC" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png/medium" group-title="►►► Portugal ◄◄◄",NATIONAL GEOGRAPHIC HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Luxe TV HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",Luxe TV HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/553.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE" tvg-logo="" group-title="►►► Portugal ◄◄◄",SUNDANCE
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/558.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Localvisão TV HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",Localvisão TV HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/554.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Food Network" tvg-logo="" group-title="►►► Portugal ◄◄◄",Food Network
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/555.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SHOWCASE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qqwypw1435092052.png/medium" group-title="►►► Portugal ◄◄◄",DISCOVERY SHOWCASE HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/56.ts
+#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="NAT GEO WILD" tvg-logo="http://www.thelogodb.com/images/media/logo/ssssww1436899078.png/medium" group-title="►►► Portugal ◄◄◄",NAT GEO WILD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/55.ts
+#EXTINF:-1 tvg-ID="Canal História" tvg-name="CANAL HISTORIA" tvg-logo="http://aureliocteixeira.sites.uol.com.br/blog/images/history.jpg" group-title="►►► Portugal ◄◄◄",CANAL HISTORIA
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/68.ts
+#EXTINF:-1 tvg-ID="DISCOVERYHD" tvg-name="DISCOVERY" tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png/medium" group-title="►►► Portugal ◄◄◄",DISCOVERY
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/57.ts
+#EXTINF:-1 tvg-ID="ODIS" tvg-name="ODISSEIA" tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png/medium" group-title="►►► Portugal ◄◄◄",ODISSEIA
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/58.ts
+#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS REALITY" tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png/medium" group-title="►►► Portugal ◄◄◄",CBS REALITY
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/29.ts
+#EXTINF:-1 tvg-ID="Caça Vision" tvg-name="CACAVISION" tvg-logo="http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png/medium" group-title="►►► Portugal ◄◄◄",CACAVISION
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/51.ts
+#EXTINF:-1 tvg-ID="Caça e Pesca" tvg-name="CAÇA E PESCA" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwput1438005508.png/medium" group-title="►►► Portugal ◄◄◄",CAÇA E PESCA
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/52.ts
+#EXTINF:-1 tvg-ID="TRAVEL" tvg-name="TRAVEL CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png/medium" group-title="►►► Portugal ◄◄◄",TRAVEL CHANNEL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/171.ts
+#EXTINF:-1 tvg-ID="BBC Entertainment" tvg-name="BBC ENTERTAINMENT" tvg-logo="http://www.thelogodb.com/images/media/logo/rssywx1433940888.png/medium" group-title="►►► Portugal ◄◄◄",BBC ENTERTAINMENT
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/69.ts
+#EXTINF:-1 tvg-ID="EENTER" tvg-name="E! ENTERTAINMENT" tvg-logo="http://www.thelogodb.com/images/media/logo/yrwrqu1434048183.png/medium" group-title="►►► Portugal ◄◄◄",E! ENTERTAINMENT
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/28.ts
+#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="24 KITCHEN HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vvupxq1433940706.png/medium" group-title="►►► Portugal ◄◄◄",24 KITCHEN HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/250.ts
+#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="http://www.thelogodb.com/images/media/logo/rprruu1433942038.png/medium" group-title="►►► Portugal ◄◄◄",TLC
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/229.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Music ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Music ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/538.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO 1 HD" tvg-logo="" group-title="General Streams",VEVO 1 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO 1 SD" tvg-logo="" group-title="►►► Portugal ◄◄◄",VEVO 1 SD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/577.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO 2 SD" tvg-logo="" group-title="►►► Portugal ◄◄◄",VEVO 2 SD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO 3 SD" tvg-logo="" group-title="►►► Portugal ◄◄◄",VEVO 3 SD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/579.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRACE TV" tvg-logo="" group-title="►►► Portugal ◄◄◄",TRACE TV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/545.ts
+#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png/medium" group-title="►►► Portugal ◄◄◄",VH1
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VOX TV" tvg-logo="" group-title="General Streams",VOX TV
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="iCONCERTS" tvg-logo="" group-title="►►► Portugal ◄◄◄",iCONCERTS
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRACE URBAN HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",TRACE URBAN HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/562.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 CLASSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqtws1433944887.png/medium" group-title="►►► Portugal ◄◄◄",VH1 CLASSIC
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/176.ts
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV PORTUGAL" tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png/medium" group-title="►►► Portugal ◄◄◄",MTV PORTUGAL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/71.ts
+#EXTINF:-1 tvg-ID="MCMPOP" tvg-name="MCM POP" tvg-logo="http://www.thelogodb.com/images/media/logo/rvtqvs1435092184.png/medium" group-title="►►► Portugal ◄◄◄",MCM POP
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/72.ts
+#EXTINF:-1 tvg-ID="C-Music" tvg-name="C- MUSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/rxysrq1435105996.png/medium" group-title="►►► Portugal ◄◄◄",C- MUSIC
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/118.ts
+#EXTINF:-1 tvg-ID="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/yywtqx1456252794.png/medium" group-title="►►► Portugal ◄◄◄",AFRO MUSIC
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► Adults +18 ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Adults +18 ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/539.ts
+#EXTINF:-1 tvg-ID="Venus" tvg-name="VENUS" tvg-logo="http://www.thelogodb.com/images/media/logo/ruxvwp1436845008.png/medium" group-title="For adults",VENUS
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/75.ts
+#EXTINF:-1 tvg-ID="PLAYBOY" tvg-name="PLAYBOY" tvg-logo="http://www.thelogodb.com/images/media/logo/wuwusq1436889610.png/medium" group-title="For adults",PLAYBOY
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HOT HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",HOT HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/573.ts
+#EXTINF:-1 tvg-ID="HOT" tvg-name="HOT" tvg-logo="http://www.thelogodb.com/images/media/logo/vspttw1436844639.png/medium" group-title="For adults",HOT
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="+18 XXX" tvg-logo="" group-title="For adults",+18 XXX
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PENTHOUSE HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",PENTHOUSE HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/559.ts
+#EXTINF:-1 tvg-ID="HUSTLER HD" tvg-name="HUSTLER  HD" tvg-logo="http://www.thelogodb.com/images/media/logo/wsusvv1444920690.png/medium" group-title="For adults",HUSTLER  HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/175.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► FR ◄◄◄" tvg-logo="" group-title="",►►► FR ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="http://www.thelogodb.com/images/media/logo/qstwyy1451141633.png/medium" group-title="",TF1
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" group-title="►►► Portugal ◄◄◄",M6
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT  FR" tvg-logo="" group-title="General Streams",EUROSPORT  FR
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR - EUROSPORT 2" tvg-logo="" group-title="General Streams",FR - EUROSPORT 2
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/575.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|: INFOSPORT" tvg-logo="" group-title="General Streams",|FR|: INFOSPORT
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|: BEINSPORT 1" tvg-logo="" group-title="General Streams",|FR|: BEINSPORT 1
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/589.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 2 HD" tvg-logo="" group-title="General Streams",FR: Bein Sports 2 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/595.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|: CANAL   SPORT" tvg-logo="" group-title="General Streams",|FR|: CANAL   SPORT
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/586.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL  HD" tvg-logo="" group-title="General Streams",FR: CANAL  HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/593.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|: CANAL   FRISSON" tvg-logo="" group-title="",|FR|: CANAL   FRISSON
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|: CANAL   FAMALY" tvg-logo="" group-title="General Streams",|FR|: CANAL   FAMALY
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY CHANNEL" tvg-logo="" group-title="General Streams",FR: DISNEY CHANNEL
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Discovery HD" tvg-logo="" group-title="General Streams",FR: Discovery HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/591.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Premier" tvg-logo="" group-title="General Streams",FR: Cine Premier
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/592.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ANIMAUX HD" tvg-logo="" group-title="General Streams",FR: ANIMAUX HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/594.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|: TEVA" tvg-logo="" group-title="",|FR|: TEVA
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|: FRANCE 24" tvg-logo="" group-title="General Streams",|FR|: FRANCE 24
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► UK ◄◄◄" tvg-logo="" group-title="",►►► UK ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/541.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM 1HD" tvg-logo="" group-title="",CTH STADIUM 1HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM 2HD" tvg-logo="" group-title="",CTH STADIUM 2HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xpwqxy1433965242.png/medium" group-title="",Sky Sports 1 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/172.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xpwqxy1433965242.png/medium" group-title="",Sky Sport 1 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/179.ts
+#EXTINF:-1 tvg-ID="SKYN" tvg-name="SKY NEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/qvvxuq1438374093.png/medium" group-title="",SKY NEWS
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/221.ts
+#EXTINF:-1 tvg-ID="FOX News" tvg-name="FOX NEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/sqwqtt1436847658.png/medium" group-title="",FOX NEWS
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="►►► DE ◄◄◄" tvg-logo="" group-title="",►►► DE ◄◄◄
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/542.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky BundesLiga 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/wtvtsu1437968463.png/medium" group-title="",DE: Sky BundesLiga 1 HD
+http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Southpaw (2015)" tvg-logo="http://89.163.225.108:5500/images/1798684.jpg" group-title="General Movies",Southpaw (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/81.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Snoopy e Charlie Brown: Peanuts - O Filme (2015)" tvg-logo="http://164.132.160.240:5500/images/2452042.jpg" group-title="General Movies",Snoopy e Charlie Brown: Peanuts - O Filme (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/107.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sexo drogas e jingle bell" tvg-logo="http://iptvesathd.ddns.net:5500/images/3530002.jpg" group-title="General Movies",Sexo drogas e jingle bell
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/288.4
+#EXTINF:-1 tvg-ID="" tvg-name="Rock the kasbah - Bem-vindo ao Afeganistão (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3164256.jpg" group-title="General Movies",Rock the kasbah - Bem-vindo ao Afeganistão (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/258.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Point Break - Caçadores de Emoções (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2058673.jpg" group-title="General Movies",Point Break - Caçadores de Emoções (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/260.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Pan: Viagem Ã  Terra do Nunca (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2058673.jpg" group-title="",Pan: Viagem Ã  Terra do Nunca (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/129.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Os Oito Odiados (2015)" tvg-logo="http://164.132.160.240:5500/images/3460252.jpg" group-title="General Movies",Os Oito Odiados (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/166.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Orgulho e Preconceito e Guerra (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1374989.jpg" group-title="General Movies",Orgulho e Preconceito e Guerra (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/276.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O reino gelado 2" tvg-logo="http://iptvesathd.ddns.net:5500/images/3477554.jpg" group-title="General Movies",O reino gelado 2
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/289.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Panda do Kung Fu 3 (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2267968.jpg" group-title="General Movies",O Panda do Kung Fu 3 (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/253.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O ExcÃªntrico Mortdecai (2015)" tvg-logo="http://89.163.225.108:5500/images/3045616.jpg" group-title="General Movies",O ExcÃªntrico Mortdecai (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/108.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O Caso Spotlight (2015)" tvg-logo="http://164.132.160.240:5500/images/1895587.jpg" group-title="General Movies",O Caso Spotlight (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/150.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="No CoraÃ§Ã£o do Mar (2015)" tvg-logo="http://89.163.225.108:5500/images/1390411.jpg" group-title="",No CoraÃ§Ã£o do Mar (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/130.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Monkey kingdom" tvg-logo="http://iptvesathd.ddns.net:5500/images/3660770.jpg" group-title="General Movies",Monkey kingdom
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/293.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Miss You Already (2015)" tvg-logo="http://164.132.160.240:5500/images/2245003.jpg" group-title="General Movies",Miss You Already (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/165.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Yip Man 3 (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2888046.jpg" group-title="General Movies",Yip Man 3 (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/277.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="War Room (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3832914.jpg" group-title="General Movies",War Room (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/254.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Vendetta (2015)" tvg-logo="http://89.163.225.108:5500/images/0434409.jpg" group-title="General Movies",Vendetta (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/84.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Velocidade furiosa 7" tvg-logo="http://164.132.160.240:5500/images/2820852.jpg" group-title="General Movies",Velocidade furiosa 7
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/77.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="UPSSS! LÃ SE FOI A ARCA... (2015) (PT)" tvg-logo="http://164.132.160.240:5500/images/2820852.jpg" group-title="",UPSSS! LÃ SE FOI A ARCA... (2015) (PT)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/128.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Transporter: PotÃªncia MÃ¡xima (2015)" tvg-logo="http://89.163.225.108:5500/images/2938956.jpg" group-title="General Movies",Transporter: PotÃªncia MÃ¡xima (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/79.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Tomorrowland - Terra do AmanhÃ£ (2015)" tvg-logo="http://89.163.225.108:5500/images/1964418.jpg" group-title="General Movies",Tomorrowland - Terra do AmanhÃ£ (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/134.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Walk - O Desafio (2015)" tvg-logo="http://164.132.160.240:5500/images/3488710.jpg" group-title="General Movies",The Walk - O Desafio (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/149.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Veil (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3533916.jpg" group-title="General Movies",The Veil (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/259.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="THE SURVIVIALIST (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3533916.jpg" group-title="General Movies",THE SURVIVIALIST (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/296.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="THE PROGRAM (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3083008.jpg" group-title="General Movies",THE PROGRAM (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/298.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Lobster (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3464902.jpg" group-title="General Movies",The Lobster (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/255.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Last Witch Hunter (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3464902.jpg" group-title="General Movies",The Last Witch Hunter (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/83.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Hunger Games A Revolta - Parte 2 (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1951266.jpg" group-title="General Movies",The Hunger Games A Revolta - Parte 2 (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/169.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="THE EXORCISM (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/4473454.jpg" group-title="General Movies",THE EXORCISM (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/301.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The Boy - Segue as Regras (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3882082.jpg" group-title="General Movies",The Boy - Segue as Regras (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/271.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ted 2 (2015)" tvg-logo="http://89.163.225.108:5500/images/2637276.jpg" group-title="General Movies",Ted 2 (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/143.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="SURVIVOR (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3247714.jpg" group-title="General Movies",SURVIVOR (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/299.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Suffragette" tvg-logo="http://iptvesathd.ddns.net:5500/images/3077214.jpg" group-title="General Movies",Suffragette
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/286.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Steve Jobs: The Man in the Machine (2015)" tvg-logo="http://89.163.225.108:5500/images/4425064.jpg" group-title="",Steve Jobs: The Man in the Machine (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/131.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Star Wars O Despertar da Força (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2488496.jpg" group-title="General Movies",Star Wars O Despertar da Força (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/251.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Standoff (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3703908.jpg" group-title="General Movies",Standoff (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/270.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Só Podiam Ser Irmãs (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1850457.jpg" group-title="General Movies",Só Podiam Ser Irmãs (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/168.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sicário - Infiltrado (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3397884.jpg" group-title="General Movies",Sicário - Infiltrado (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/274.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ronaldo (2015)" tvg-logo="http://89.163.225.108:5500/images/5065822.jpg" group-title="General Movies",Ronaldo (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/135.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Queen of the Desert (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1837636.jpg" group-title="General Movies",Queen of the Desert (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/269.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Perdido em Marte (2015)" tvg-logo="http://164.132.160.240:5500/images/3659388.jpg" group-title="General Movies",Perdido em Marte (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/78.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Pai Há So Um! (2015)" tvg-logo="http://164.132.160.240:5500/images/3659388.jpg" group-title="General Movies",Pai Há So Um! (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/167.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Os Coopers SÃ£o o MÃ¡ximo (2015)" tvg-logo="http://89.163.225.108:5500/images/2279339.jpg" group-title="General Movies",Os Coopers SÃ£o o MÃ¡ximo (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/144.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O SeguranÃ§a do Shopping: Las Vegas (2015)" tvg-logo="http://89.163.225.108:5500/images/3450650.jpg" group-title="",O SeguranÃ§a do Shopping: Las Vegas (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/132.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O PRINCIPEZINHO (2015)" tvg-logo="http://89.163.225.108:5500/images/1754656.jpg" group-title="General Movies",O PRINCIPEZINHO (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/127.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O filho de Saul" tvg-logo="http://iptvesathd.ddns.net:5500/images/3808342.jpg" group-title="General Movies",O filho de Saul
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/290.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="O estagiario" tvg-logo="http://iptvesathd.ddns.net:5500/images/2361509.jpg" group-title="General Movies",O estagiario
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/295.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Noite em Fuga (2015)" tvg-logo="http://89.163.225.108:5500/images/2199571.jpg" group-title="General Movies",Noite em Fuga (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/80.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mundo JurÃ¡ssico (2015)" tvg-logo="http://89.163.225.108:5500/images/0369610.jpg" group-title="General Movies",Mundo JurÃ¡ssico (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/142.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mission Impossible - Rogue Nation (2015)" tvg-logo="http://89.163.225.108:5500/images/2381249.jpg" group-title="General Movies",Mission Impossible - Rogue Nation (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/86.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Mad Max: Estrada da FÃºria (2015)" tvg-logo="http://164.132.160.240:5500/images/1392190.jpg" group-title="General Movies",Mad Max: Estrada da FÃºria (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/106.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Legend" tvg-logo="http://iptvesathd.ddns.net:5500/images/3569230.jpg" group-title="General Movies",Legend
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/291.4
+#EXTINF:-1 tvg-ID="" tvg-name="Lavalantula (2015)" tvg-logo="http://164.132.160.240:5500/images/4060576.jpg" group-title="General Movies",Lavalantula (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/164.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Krampus O Lado Negro do Natal (2015)" tvg-logo="http://164.132.160.240:5500/images/3850590.jpg" group-title="General Movies",Krampus O Lado Negro do Natal (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/163.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Junto ao Mar (2015)" tvg-logo="http://164.132.160.240:5500/images/3707106.jpg" group-title="General Movies",Junto ao Mar (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/162.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Jarhead 3 The Siege (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/4616014.jpg" group-title="General Movies",Jarhead 3 The Siege (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/256.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Homem-Formiga (2015)" tvg-logo="http://89.163.225.108:5500/images/0478970.jpg" group-title="",Homem-Formiga (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/133.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Home invasion" tvg-logo="http://iptvesathd.ddns.net:5500/images/5351000.jpg" group-title="General Movies",Home invasion
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/285.4
+#EXTINF:-1 tvg-ID="" tvg-name="Hollow Creek (2016)" tvg-logo="http://164.132.160.240:5500/images/2545538.jpg" group-title="General Movies",Hollow Creek (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/161.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Hitman: Agente 47 (2015)" tvg-logo="http://164.132.160.240:5500/images/2679042.jpg" group-title="General Movies",Hitman: Agente 47 (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/148.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Gods of Egipt" tvg-logo="http://iptvesathd.ddns.net:5500/images/2404233.jpg" group-title="General Movies",Gods of Egipt
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/284.4
+#EXTINF:-1 tvg-ID="" tvg-name="Get a Job (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1468846.jpg" group-title="General Movies",Get a Job (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/257.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Fourth Man Out (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3978720.jpg" group-title="General Movies",Fourth Man Out (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/275.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Forsaken" tvg-logo="http://iptvesathd.ddns.net:5500/images/2271563.jpg" group-title="General Movies",Forsaken
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/292.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Faz-te Homem (2015)" tvg-logo="http://89.163.225.108:5500/images/2561572.jpg" group-title="General Movies",Faz-te Homem (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/146.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Fantastic Four (2015)" tvg-logo="http://89.163.225.108:5500/images/1502712.jpg" group-title="General Movies",Fantastic Four (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/85.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Extraction (2015)" tvg-logo="http://89.163.225.108:5500/images/4382872.jpg" group-title="General Movies",Extraction (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/82.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Exterminador: Genisys (2015)" tvg-logo="http://164.132.160.240:5500/images/1340138.jpg" group-title="General Movies",Exterminador: Genisys (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/104.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Ex Machina (2015)" tvg-logo="http://89.163.225.108:5500/images/0470752.jpg" group-title="General Movies",Ex Machina (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/102.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="EVEREST (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2719848.jpg" group-title="General Movies",EVEREST (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/297.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Deadpool (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1431045.jpg" group-title="General Movies",Deadpool (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/294.4
+#EXTINF:-1 tvg-ID="" tvg-name="Cidades de Papel (2015)" tvg-logo="http://89.163.225.108:5500/images/3622592.jpg" group-title="General Movies",Cidades de Papel (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/145.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Carro da PolÃ­cia (2015)" tvg-logo="http://89.163.225.108:5500/images/3813310.jpg" group-title="General Movies",Carro da PolÃ­cia (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/109.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="CapitÃ£o FalcÃ£o (2015)" tvg-logo="http://164.132.160.240:5500/images/1941478.jpg" group-title="General Movies",CapitÃ£o FalcÃ£o (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/147.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Cabin Fever (2016)" tvg-logo="http://164.132.160.240:5500/images/3832096.jpg" group-title="General Movies",Cabin Fever (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/160.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="AscensÃ£o de JÃºpiter (2015)" tvg-logo="http://164.132.160.240:5500/images/3832096.jpg" group-title="General Movies",AscensÃ£o de JÃºpiter (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/105.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Anjos e Sombras (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/4019560.jpg" group-title="General Movies",Anjos e Sombras (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/268.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="American Ultra: Agentes ImprovÃ¡veis (2015)" tvg-logo="http://89.163.225.108:5500/images/3316948.jpg" group-title="General Movies",American Ultra: Agentes ImprovÃ¡veis (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/141.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="American Hero (2015)" tvg-logo="http://89.163.225.108:5500/images/4733536.jpg" group-title="General Movies",American Hero (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/110.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Alvin e os Esquilos A Grande Aventura (2015)" tvg-logo="http://164.132.160.240:5500/images/2974918.jpg" group-title="General Movies",Alvin e os Esquilos A Grande Aventura (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/159.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Absolutely Anything - Uma ComÃ©dia IntergalÃ¡ctica (2015" tvg-logo="http://89.163.225.108:5500/images/1727770.jpg" group-title="General Movies",Absolutely Anything - Uma ComÃ©dia IntergalÃ¡ctica (2015
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/111.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A viagem de Arlo" tvg-logo="http://iptvesathd.ddns.net:5500/images/1979388.jpg" group-title="General Movies",A viagem de Arlo
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/287.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Senhora da Furgoneta (2015)" tvg-logo="http://164.132.160.240:5500/images/3722070.jpg" group-title="General Movies",A Senhora da Furgoneta (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/157.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Queda de Wall Street (2015)" tvg-logo="http://164.132.160.240:5500/images/1596363.jpg" group-title="General Movies",A Queda de Wall Street (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/156.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="À Procura de Uma Estrela (2015)" tvg-logo="http://164.132.160.240:5500/images/1596363.jpg" group-title="General Movies",À Procura de Uma Estrela (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/273.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Perfect Day (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3577624.jpg" group-title="General Movies",A Perfect Day (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/272.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Modista (2015)" tvg-logo="http://164.132.160.240:5500/images/2910904.jpg" group-title="General Movies",A Modista (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/155.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A ForÃ§a da Verdade (2015)" tvg-logo="http://164.132.160.240:5500/images/3322364.jpg" group-title="General Movies",A ForÃ§a da Verdade (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/154.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A Ãšltima Noitada (2015)" tvg-logo="http://164.132.160.240:5500/images/3322364.jpg" group-title="General Movies",A Ãšltima Noitada (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/158.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="A 5ª Vaga (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2304933.jpg" group-title="General Movies",A 5ª Vaga (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/252.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="90 MINUTES IN HEAVEN (2015)" tvg-logo="http://89.163.225.108:5500/images/4337690.jpg" group-title="General Movies",90 MINUTES IN HEAVEN (2015)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/136.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="50 SOMBRAS DE GREY (2016)" tvg-logo="http://89.163.225.108:5500/images/4337690.jpg" group-title="General Movies",50 SOMBRAS DE GREY (2016)
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/300.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="007 SPECTRE" tvg-logo="http://164.132.160.240:5500/images/2379713.jpg" group-title="General Movies",007 SPECTRE
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/103.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Triple 9" tvg-logo="http://iptvesathd.ddns.net:5500/images/1712261.jpg" group-title="General Movies",Triple 9
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/568.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The finest hours" tvg-logo="http://iptvesathd.ddns.net:5500/images/2025690.jpg" group-title="General Movies",The finest hours
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/569.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The choice" tvg-logo="http://iptvesathd.ddns.net:5500/images/3797868.jpg" group-title="General Movies",The choice
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/570.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Special correspndents" tvg-logo="http://iptvesathd.ddns.net:5500/images/4181052.jpg" group-title="General Movies",Special correspndents
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/571.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Risen" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="General Movies",Risen
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/572.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E01" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E01
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/611.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E02" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E02
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/597.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E03" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E03
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/598.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E04" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E04
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/599.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E05" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E05
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/600.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E06" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E06
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/601.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E07" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E07
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/602.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E08" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E08
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/603.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E09" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E09
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/612.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E10" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E10
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/604.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E11" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E11
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/605.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E12" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E12
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/606.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E13" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E13
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/607.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E14" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E14
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/608.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E15" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E15
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/609.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E16" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E16
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/610.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Fear The Walking Dead S02E01" tvg-logo="http://iptvesathd.ddns.net:5500/images/3743822.jpg" group-title="SERIES",Fear The Walking Dead S02E01
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/596.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E01" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E01
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/627.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E02" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E02
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/613.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E03" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E03
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/614.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E04" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E04
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/615.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E05" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E05
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/616.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E06" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E06
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/617.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E07" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E07
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/618.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E08" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E08
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/619.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E09" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E09
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/628.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E10" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E10
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/620.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E11" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E11
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/621.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E12" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E12
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/622.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E13" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E13
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/623.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E14" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E14
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/624.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E15" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E15
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/625.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E16" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E16
+http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/626.mkv
