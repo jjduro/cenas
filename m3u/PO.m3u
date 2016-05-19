@@ -1,615 +1,1073 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="►►► Portugal ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Portugal ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/540.ts
-#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP1 HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",RTP1 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/547.ts
-#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium" group-title="►►► Portugal ◄◄◄",RTP 1
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/1.ts
-#EXTINF:-1 tvg-ID="RTP1HD" tvg-name="RTP 1 (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium" group-title="►►► Portugal ◄◄◄",RTP 1 (LOW)
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/137.ts
-#EXTINF:-1 tvg-ID="RTP2" tvg-name="RTP 2" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png/medium" group-title="►►► Portugal ◄◄◄",RTP 2
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/2.ts
-#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",SIC HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/548.ts
-#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium" group-title="►►► Portugal ◄◄◄",SIC
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/3.ts
-#EXTINF:-1 tvg-ID="SIC" tvg-name="SIC (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium" group-title="►►► Portugal ◄◄◄",SIC (LOW)
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/138.ts
-#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",TVI HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/549.ts
-#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium" group-title="►►► Portugal ◄◄◄",TVI
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/4.ts
-#EXTINF:-1 tvg-ID="TVI" tvg-name="TVI (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium" group-title="►►► Portugal ◄◄◄",TVI (LOW)
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/139.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVI REALITY" tvg-logo="http://www.tvi.iol.pt/img/reality/topo.jpg" group-title="►►► Portugal ◄◄◄",TVI REALITY
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/121.ts
-#EXTINF:-1 tvg-ID="TVI Ficção" tvg-name="TVI FICÇAO" tvg-logo="http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium" group-title="►►► Portugal ◄◄◄",TVI FICÇAO
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/31.ts
-#EXTINF:-1 tvg-ID="CanalQB" tvg-name="CANAL Q" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqqwq1436891473.png/medium" group-title="►►► Portugal ◄◄◄",CANAL Q
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/9.ts
-#EXTINF:-1 tvg-ID="SICCARAS" tvg-name="SIC CARAS" tvg-logo="http://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png/medium" group-title="►►► Portugal ◄◄◄",SIC CARAS
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/32.ts
-#EXTINF:-1 tvg-ID="SICR" tvg-name="SIC RADICAL" tvg-logo="http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png/medium" group-title="►►► Portugal ◄◄◄",SIC RADICAL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/8.ts
-#EXTINF:-1 tvg-ID="SICM" tvg-name="SIC MULHER" tvg-logo="http://www.thelogodb.com/images/media/logo/suyuur1436891341.png/medium" group-title="►►► Portugal ◄◄◄",SIC MULHER
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/7.ts
-#EXTINF:-1 tvg-ID="RTPM" tvg-name="RTP MEMORIA" tvg-logo="http://www.thelogodb.com/images/media/logo/rpquyv1446848022.png/medium" group-title="►►► Portugal ◄◄◄",RTP MEMORIA
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/122.ts
-#EXTINF:-1 tvg-ID="RTPM" tvg-name="RTP MADEIRA" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png/medium" group-title="►►► Portugal ◄◄◄",RTP MADEIRA
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/182.ts
-#EXTINF:-1 tvg-ID="RTPA" tvg-name="RTP AFRICA" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/medium" group-title="►►► Portugal ◄◄◄",RTP AFRICA
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/183.ts
-#EXTINF:-1 tvg-ID="RTPA" tvg-name="RTP AÇORES" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png/medium" group-title="►►► Portugal ◄◄◄",RTP AÇORES
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/184.ts
-#EXTINF:-1 tvg-ID="RTP international" tvg-name="RTP INTERNACIONAL" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png/medium" group-title="►►► Portugal ◄◄◄",RTP INTERNACIONAL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/170.ts
-#EXTINF:-1 tvg-ID="TV RECORD HD" tvg-name="TV RECORD" tvg-logo="http://www.thelogodb.com/images/media/logo/xrpwsp1436890926.png/medium" group-title="►►► Portugal ◄◄◄",TV RECORD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/63.ts
-#EXTINF:-1 tvg-ID="Globo Premium" tvg-name="GLOBO PREMIUM" tvg-logo="http://www.thelogodb.com/images/media/logo/vqxxxt1436898683.png/medium" group-title="►►► Portugal ◄◄◄",GLOBO PREMIUM
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/61.ts
-#EXTINF:-1 tvg-ID="TV Globo Portugal" tvg-name="GLOBO PORTUGAL" tvg-logo="http://www.thelogodb.com/images/media/logo/uxvspy1433473246.png/medium" group-title="►►► Portugal ◄◄◄",GLOBO PORTUGAL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/62.ts
-#EXTINF:-1 tvg-ID="" tvg-name="►►► Noticias ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Noticias ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/533.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CMTV HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",CMTV HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/551.ts
-#EXTINF:-1 tvg-ID="CMTV" tvg-name="CORREIO DA MANHA TV" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png/medium" group-title="►►► Portugal ◄◄◄",CORREIO DA MANHA TV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/11.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARTV" tvg-logo="" group-title="►►► Portugal ◄◄◄",ARTV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/561.ts
-#EXTINF:-1 tvg-ID="SICN" tvg-name="SIC NOTICIAS" tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png/medium" group-title="►►► Portugal ◄◄◄",SIC NOTICIAS
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/5.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ETV HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",ETV HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/556.ts
-#EXTINF:-1 tvg-ID="TVI24" tvg-name="TVI 24" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium" group-title="►►► Portugal ◄◄◄",TVI 24
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/6.ts
-#EXTINF:-1 tvg-ID="RTP3" tvg-name="RTP 3" tvg-logo="http://www.thelogodb.com/images/media/logo/sprrps1460358907.png/medium" group-title="►►► Portugal ◄◄◄",RTP 3
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/76.ts
-#EXTINF:-1 tvg-ID="A Bola TV" tvg-name="A BOLA TV" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png/medium" group-title="►►► Portugal ◄◄◄",A BOLA TV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/50.ts
-#EXTINF:-1 tvg-ID="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/twwwyr1436891006.png/medium" group-title="►►► Portugal ◄◄◄",RECORD NEWS
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/59.ts
-#EXTINF:-1 tvg-ID="EURON" tvg-name="EURONEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium" group-title="►►► Portugal ◄◄◄",EURONEWS
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/202.ts
-#EXTINF:-1 tvg-ID="" tvg-name="►►► Desporto ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Desporto ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/534.ts
-#EXTINF:-1 tvg-ID="SPORTV 1 HD." tvg-name="SPORTV 1 HD FULL HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",SPORTV 1 HD FULL HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/563.ts
-#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV1 HD LOW" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV1 HD LOW
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/112.ts
-#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 HD (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 1 HD (LOW)
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/123.ts
-#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORTV 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 1 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/33.ts
-#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT TV1" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png/medium" group-title="►►► Portugal ◄◄◄",SPORT TV1
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/119.ts
-#EXTINF:-1 tvg-ID="SPORTV 1 HD" tvg-name="SPORT.TV 1 HQ" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png/medium" group-title="►►► Portugal ◄◄◄",SPORT.TV 1 HQ
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/248.ts
-#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/wwwxrx1436898851.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 2 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/34.ts
-#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/wwwxrx1436898851.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 2 HD (LOW)
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/124.ts
-#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORT.TV 2 HQ" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png/medium" group-title="►►► Portugal ◄◄◄",SPORT.TV 2 HQ
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/249.ts
-#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 2
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/263.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 HD FULL" tvg-logo="" group-title="►►► Portugal ◄◄◄",SPORTV 3 HD FULL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/565.ts
-#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rtwtyq1436898868.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 3 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/35.ts
-#EXTINF:-1 tvg-ID="SPORTV 4 HD" tvg-name="SPORTV 4 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/urrwxq1436898891.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 4 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/36.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 5 HD FULL" tvg-logo="" group-title="►►► Portugal ◄◄◄",SPORTV 5 HD FULL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/564.ts
-#EXTINF:-1 tvg-ID="SPORTV 5 HD" tvg-name="SPORTV 5 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qvppqr1436898909.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 5 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/37.ts
-#EXTINF:-1 tvg-ID="SPTV5" tvg-name="SPORTV 5" tvg-logo="http://www.thelogodb.com/images/media/logo/xvxrws1436898900.png/medium" group-title="►►► Portugal ◄◄◄",SPORTV 5
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/261.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BENFICA TV 1 HD FULL" tvg-logo="" group-title="►►► Portugal ◄◄◄",BENFICA TV 1 HD FULL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/567.ts
-#EXTINF:-1 tvg-ID="BENFICA TV 1 HD." tvg-name="BENFICA TV 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png/medium" group-title="►►► Portugal ◄◄◄",BENFICA TV 1 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/40.ts
-#EXTINF:-1 tvg-ID="BENFICA TV 1 HD" tvg-name="BENFICA TV1 (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" group-title="►►► Portugal ◄◄◄",BENFICA TV1 (LOW)
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/113.ts
-#EXTINF:-1 tvg-ID="BENFICA TV 1 HD" tvg-name="BTV 1 HD (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/yxyxqp1437951545.png/medium" group-title="►►► Portugal ◄◄◄",BTV 1 HD (LOW)
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/125.ts
-#EXTINF:-1 tvg-ID="BENFICA TV 1 HD" tvg-name="BENFICA TV 1" tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png/medium" group-title="►►► Portugal ◄◄◄",BENFICA TV 1
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/38.ts
-#EXTINF:-1 tvg-ID="BENFICA TV 2 HD" tvg-name="BENFICA TV 2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rwsuxs1437950300.png/medium" group-title="►►► Portugal ◄◄◄",BENFICA TV 2 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/41.ts
-#EXTINF:-1 tvg-ID="Benfica TV 2" tvg-name="BENFICA TV 2" tvg-logo="http://www.thelogodb.com/images/media/logo/yuurxu1437950094.png/medium" group-title="►►► Portugal ◄◄◄",BENFICA TV 2
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/39.ts
-#EXTINF:-1 tvg-ID="SPORTING HD" tvg-name="SPORTING TV HD FULL" tvg-logo="" group-title="►►► Portugal ◄◄◄",SPORTING TV HD FULL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/566.ts
-#EXTINF:-1 tvg-ID="SPORTING HD" tvg-name="SPORTING TV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uvxsqy1436896740.png/medium" group-title="►►► Portugal ◄◄◄",SPORTING TV HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/43.ts
-#EXTINF:-1 tvg-ID="SPORTING HD" tvg-name="SPORTING TV" tvg-logo="http://www.thelogodb.com/images/media/logo/twpvrs1433477118.png/medium" group-title="►►► Portugal ◄◄◄",SPORTING TV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/42.ts
-#EXTINF:-1 tvg-ID="PORTO" tvg-name="PORTO CANAL" tvg-logo="http://www.thelogodb.com/images/media/logo/yywyyt1433343546.png/medium" group-title="►►► Portugal ◄◄◄",PORTO CANAL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/10.ts
-#EXTINF:-1 tvg-ID="PFC" tvg-name="PFC" tvg-logo="http://www.thelogodb.com/images/media/logo/tsqstw1436894693.png/medium" group-title="►►► Portugal ◄◄◄",PFC
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/46.ts
-#EXTINF:-1 tvg-ID="REAL MADRID TV" tvg-name="REAL MADRID TV" tvg-logo="http://www.thelogodb.com/images/media/logo/xqwpww1436887616.png/medium" group-title="►►► Portugal ◄◄◄",REAL MADRID TV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/47.ts
-#EXTINF:-1 tvg-ID="EUROSPORT 1" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/sqtsts1436891637.png/medium" group-title="►►► Portugal ◄◄◄",EUROSPORT 1 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/44.ts
-#EXTINF:-1 tvg-ID="EUROS2" tvg-name="EUROSPORT 2" tvg-logo="http://www.thelogodb.com/images/media/logo/wxuxrq1460807653.png/medium" group-title="►►► Portugal ◄◄◄",EUROSPORT 2
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/114.ts
-#EXTINF:-1 tvg-ID="MOTORVISIONHD" tvg-name="MOTORVISION" tvg-logo="http://www.thelogodb.com/images/media/logo/tprpvy1453990598.png/medium" group-title="►►► Portugal ◄◄◄",MOTORVISION
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/218.ts
-#EXTINF:-1 tvg-ID="Motors TV" tvg-name="MOTORS TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png/medium" group-title="►►► Portugal ◄◄◄",MOTORS TV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/45.ts
-#EXTINF:-1 tvg-ID="Toros TV" tvg-name="TOROS TV" tvg-logo="http://www.thelogodb.com/images/media/logo/xxxuts1436895323.png/medium" group-title="►►► Portugal ◄◄◄",TOROS TV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/53.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FUEL TV" tvg-logo="http://www.thelogodb.com/images/media/logo/yxxrqw1436895628.png/medium" group-title="►►► Portugal ◄◄◄",FUEL TV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/49.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MCS LIFESTYLE" tvg-logo="" group-title="►►► Portugal ◄◄◄",MCS LIFESTYLE
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/546.ts
-#EXTINF:-1 tvg-ID="" tvg-name="►►► Kids ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Kids ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/536.ts
-#EXTINF:-1 tvg-ID="PANDABIGGS" tvg-name="PANDA BIGGS" tvg-logo="http://www.thelogodb.com/images/media/logo/sqttxp1433353102.png/medium" group-title="►►► Portugal ◄◄◄",PANDA BIGGS
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/48.ts
-#EXTINF:-1 tvg-ID="PANDA" tvg-name="PANDA" tvg-logo="http://www.thelogodb.com/images/media/logo/qwttxw1435106935.png/medium" group-title="►►► Portugal ◄◄◄",PANDA
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/67.ts
-#EXTINF:-1 tvg-ID="JimJam" tvg-name="JIM JAM" tvg-logo="http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium" group-title="►►► Portugal ◄◄◄",JIM JAM
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/210.ts
-#EXTINF:-1 tvg-ID="SIC K" tvg-name="SIC K" tvg-logo="http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png/medium" group-title="►►► Portugal ◄◄◄",SIC K
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/64.ts
-#EXTINF:-1 tvg-ID="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png/medium" group-title="►►► Portugal ◄◄◄",DISNEY JUNIOR
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/65.ts
-#EXTINF:-1 tvg-ID="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium" group-title="►►► Portugal ◄◄◄",DISNEY CHANNEL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/66.ts
-#EXTINF:-1 tvg-ID="Baby TV" tvg-name="BABY TV" tvg-logo="http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png/medium" group-title="►►► Portugal ◄◄◄",BABY TV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/239.ts
-#EXTINF:-1 tvg-ID="Nicke" tvg-name="NICKELODEON" tvg-logo="http://www.thelogodb.com/images/media/logo/turwts1438374001.png/medium" group-title="►►► Portugal ◄◄◄",NICKELODEON
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/115.ts
-#EXTINF:-1 tvg-ID="CART" tvg-name="CARTOON NETWORK PT" tvg-logo="http://www.thelogodb.com/images/media/logo/rqswvs1435142683.png/medium" group-title="►►► Portugal ◄◄◄",CARTOON NETWORK PT
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/117.ts
-#EXTINF:-1 tvg-ID="" tvg-name="►►► Series & Movies ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Series & Movies ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/535.ts
-#EXTINF:-1 tvg-ID="TVC1" tvg-name="TVC 1 HD (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtrst1436898282.png/medium" group-title="►►► Portugal ◄◄◄",TVC 1 HD (LOW)
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/126.ts
-#EXTINF:-1 tvg-ID="TVC1" tvg-name="TVC1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yxtrst1436898282.png/medium" group-title="►►► Portugal ◄◄◄",TVC1 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/12.ts
-#EXTINF:-1 tvg-ID="TVC2" tvg-name="TVC2 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rpssrv1436898306.png/medium" group-title="►►► Portugal ◄◄◄",TVC2 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/13.ts
-#EXTINF:-1 tvg-ID="TVC3" tvg-name="TVC3 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png/medium" group-title="►►► Portugal ◄◄◄",TVC3 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/14.ts
-#EXTINF:-1 tvg-ID="TVC4" tvg-name="TVC4 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qswqxx1436898355.png/medium" group-title="►►► Portugal ◄◄◄",TVC4 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/15.ts
-#EXTINF:-1 tvg-ID="TVSERIES" tvg-name="TVC SERIES HD" tvg-logo="http://www.thelogodb.com/images/media/logo/sprtwx1436898392.png/medium" group-title="►►► Portugal ◄◄◄",TVC SERIES HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/30.ts
-#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tupvuv1436899688.png/medium" group-title="►►► Portugal ◄◄◄",HOLLYWOOD HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/16.ts
-#EXTINF:-1 tvg-ID="Cinemundo" tvg-name="CINEMUNDO" tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png/medium" group-title="►►► Portugal ◄◄◄",CINEMUNDO
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/18.ts
-#EXTINF:-1 tvg-ID="MOVHD" tvg-name="MOV HD" tvg-logo="http://www.thelogodb.com/images/media/logo/yusxxt1452596924.png/medium" group-title="►►► Portugal ◄◄◄",MOV HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/19.ts
-#EXTINF:-1 tvg-ID="SyFy" tvg-name="Syfy HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",Syfy HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/552.ts
-#EXTINF:-1 tvg-ID="SyFy" tvg-name="SYFY" tvg-logo="http://www.thelogodb.com/images/media/logo/wuxyuy1433944777.png/medium" group-title="►►► Portugal ◄◄◄",SYFY
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/26.ts
-#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E" tvg-logo="http://www.thelogodb.com/images/media/logo/xyuqsu1435097077.png/medium" group-title="►►► Portugal ◄◄◄",A&E
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/116.ts
-#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://www.thelogodb.com/images/media/logo/txvtyy1441049730.png/medium" group-title="►►► Portugal ◄◄◄",AMC
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/178.ts
-#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png/medium" group-title="►►► Portugal ◄◄◄",AXN HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/20.ts
-#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD (LOW)" tvg-logo="http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png/medium" group-title="►►► Portugal ◄◄◄",AXN HD (LOW)
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/140.ts
-#EXTINF:-1 tvg-ID="AXN Black" tvg-name="AXN BLACK HD" tvg-logo="http://www.thelogodb.com/images/media/logo/tstsvx1445114284.png/medium" group-title="►►► Portugal ◄◄◄",AXN BLACK HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/22.ts
-#EXTINF:-1 tvg-ID="AXN White" tvg-name="AXN WHITE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vvwysx1445114035.png/medium" group-title="►►► Portugal ◄◄◄",AXN WHITE HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/21.ts
-#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xquwxv1436847349.png/medium" group-title="►►► Portugal ◄◄◄",FOX HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/23.ts
-#EXTINF:-1 tvg-ID="FOXLIFE" tvg-name="FOX LIFE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/ttvpyv1436846997.png/medium" group-title="►►► Portugal ◄◄◄",FOX LIFE HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/24.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" tvg-logo="http://www.thelogodb.com/images/media/logo/sxrrvv1436890227.png/medium" group-title="►►► Portugal ◄◄◄",FOX MOVIES
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/17.ts
-#EXTINF:-1 tvg-ID="FOXCRIME" tvg-name="FOX CRIME HD" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxut1436892701.png/medium" group-title="►►► Portugal ◄◄◄",FOX CRIME HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/25.ts
-#EXTINF:-1 tvg-ID="FOX COMEDY HD" tvg-name="FOX COMEDY" tvg-logo="http://www.thelogodb.com/images/media/logo/tqxpxq1448198387.png/medium" group-title="►►► Portugal ◄◄◄",FOX COMEDY
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/27.ts
-#EXTINF:-1 tvg-ID="" tvg-name="►►► Documentarios ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Documentarios ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/537.ts
-#EXTINF:-1 tvg-ID="NGC" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png/medium" group-title="►►► Portugal ◄◄◄",NATIONAL GEOGRAPHIC HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/54.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Luxe TV HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",Luxe TV HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/553.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE" tvg-logo="" group-title="►►► Portugal ◄◄◄",SUNDANCE
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/558.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Localvisão TV HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",Localvisão TV HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/554.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Food Network" tvg-logo="" group-title="►►► Portugal ◄◄◄",Food Network
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/555.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SHOWCASE HD" tvg-logo="http://www.thelogodb.com/images/media/logo/qqwypw1435092052.png/medium" group-title="►►► Portugal ◄◄◄",DISCOVERY SHOWCASE HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/56.ts
-#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="NAT GEO WILD" tvg-logo="http://www.thelogodb.com/images/media/logo/ssssww1436899078.png/medium" group-title="►►► Portugal ◄◄◄",NAT GEO WILD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/55.ts
-#EXTINF:-1 tvg-ID="Canal História" tvg-name="CANAL HISTORIA" tvg-logo="http://aureliocteixeira.sites.uol.com.br/blog/images/history.jpg" group-title="►►► Portugal ◄◄◄",CANAL HISTORIA
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/68.ts
-#EXTINF:-1 tvg-ID="DISCOVERYHD" tvg-name="DISCOVERY" tvg-logo="http://www.thelogodb.com/images/media/logo/usvxwq1433945505.png/medium" group-title="►►► Portugal ◄◄◄",DISCOVERY
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/57.ts
-#EXTINF:-1 tvg-ID="ODIS" tvg-name="ODISSEIA" tvg-logo="http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png/medium" group-title="►►► Portugal ◄◄◄",ODISSEIA
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/58.ts
-#EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS REALITY" tvg-logo="http://www.thelogodb.com/images/media/logo/tywuvw1434287895.png/medium" group-title="►►► Portugal ◄◄◄",CBS REALITY
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/29.ts
-#EXTINF:-1 tvg-ID="Caça Vision" tvg-name="CACAVISION" tvg-logo="http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png/medium" group-title="►►► Portugal ◄◄◄",CACAVISION
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/51.ts
-#EXTINF:-1 tvg-ID="Caça e Pesca" tvg-name="CAÇA E PESCA" tvg-logo="http://www.thelogodb.com/images/media/logo/vxwput1438005508.png/medium" group-title="►►► Portugal ◄◄◄",CAÇA E PESCA
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/52.ts
-#EXTINF:-1 tvg-ID="TRAVEL" tvg-name="TRAVEL CHANNEL" tvg-logo="http://www.thelogodb.com/images/media/logo/vqwxvx1433944819.png/medium" group-title="►►► Portugal ◄◄◄",TRAVEL CHANNEL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/171.ts
-#EXTINF:-1 tvg-ID="BBC Entertainment" tvg-name="BBC ENTERTAINMENT" tvg-logo="http://www.thelogodb.com/images/media/logo/rssywx1433940888.png/medium" group-title="►►► Portugal ◄◄◄",BBC ENTERTAINMENT
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/69.ts
-#EXTINF:-1 tvg-ID="EENTER" tvg-name="E! ENTERTAINMENT" tvg-logo="http://www.thelogodb.com/images/media/logo/yrwrqu1434048183.png/medium" group-title="►►► Portugal ◄◄◄",E! ENTERTAINMENT
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/28.ts
-#EXTINF:-1 tvg-ID="24 Kitchen" tvg-name="24 KITCHEN HD" tvg-logo="http://www.thelogodb.com/images/media/logo/vvupxq1433940706.png/medium" group-title="►►► Portugal ◄◄◄",24 KITCHEN HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/250.ts
-#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="http://www.thelogodb.com/images/media/logo/rprruu1433942038.png/medium" group-title="►►► Portugal ◄◄◄",TLC
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/229.ts
-#EXTINF:-1 tvg-ID="" tvg-name="►►► Music ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Music ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/538.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEVO 1 HD" tvg-logo="" group-title="General Streams",VEVO 1 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/580.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEVO 1 SD" tvg-logo="" group-title="►►► Portugal ◄◄◄",VEVO 1 SD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/577.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEVO 2 SD" tvg-logo="" group-title="►►► Portugal ◄◄◄",VEVO 2 SD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/578.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEVO 3 SD" tvg-logo="" group-title="►►► Portugal ◄◄◄",VEVO 3 SD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/579.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TRACE TV" tvg-logo="" group-title="►►► Portugal ◄◄◄",TRACE TV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/545.ts
-#EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqwrq1433965505.png/medium" group-title="►►► Portugal ◄◄◄",VH1
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/70.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VOX TV" tvg-logo="" group-title="General Streams",VOX TV
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/581.ts
-#EXTINF:-1 tvg-ID="" tvg-name="iCONCERTS" tvg-logo="" group-title="►►► Portugal ◄◄◄",iCONCERTS
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/557.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TRACE URBAN HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",TRACE URBAN HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/562.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VH1 CLASSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/wpqtws1433944887.png/medium" group-title="►►► Portugal ◄◄◄",VH1 CLASSIC
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/176.ts
-#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV PORTUGAL" tvg-logo="http://www.thelogodb.com/images/media/logo/wrrvup1438373929.png/medium" group-title="►►► Portugal ◄◄◄",MTV PORTUGAL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/71.ts
-#EXTINF:-1 tvg-ID="MCMPOP" tvg-name="MCM POP" tvg-logo="http://www.thelogodb.com/images/media/logo/rvtqvs1435092184.png/medium" group-title="►►► Portugal ◄◄◄",MCM POP
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/72.ts
-#EXTINF:-1 tvg-ID="C-Music" tvg-name="C- MUSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/rxysrq1435105996.png/medium" group-title="►►► Portugal ◄◄◄",C- MUSIC
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/118.ts
-#EXTINF:-1 tvg-ID="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="http://www.thelogodb.com/images/media/logo/yywtqx1456252794.png/medium" group-title="►►► Portugal ◄◄◄",AFRO MUSIC
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/232.ts
-#EXTINF:-1 tvg-ID="" tvg-name="►►► Adults +18 ◄◄◄" tvg-logo="" group-title="►►► Portugal ◄◄◄",►►► Adults +18 ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/539.ts
-#EXTINF:-1 tvg-ID="Venus" tvg-name="VENUS" tvg-logo="http://www.thelogodb.com/images/media/logo/ruxvwp1436845008.png/medium" group-title="For adults",VENUS
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/75.ts
-#EXTINF:-1 tvg-ID="PLAYBOY" tvg-name="PLAYBOY" tvg-logo="http://www.thelogodb.com/images/media/logo/wuwusq1436889610.png/medium" group-title="For adults",PLAYBOY
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/73.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HOT HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",HOT HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/573.ts
-#EXTINF:-1 tvg-ID="HOT" tvg-name="HOT" tvg-logo="http://www.thelogodb.com/images/media/logo/vspttw1436844639.png/medium" group-title="For adults",HOT
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/74.ts
-#EXTINF:-1 tvg-ID="" tvg-name="+18 XXX" tvg-logo="" group-title="For adults",+18 XXX
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/241.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PENTHOUSE HD" tvg-logo="" group-title="►►► Portugal ◄◄◄",PENTHOUSE HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/559.ts
-#EXTINF:-1 tvg-ID="HUSTLER HD" tvg-name="HUSTLER  HD" tvg-logo="http://www.thelogodb.com/images/media/logo/wsusvv1444920690.png/medium" group-title="For adults",HUSTLER  HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/175.ts
-#EXTINF:-1 tvg-ID="" tvg-name="►►► FR ◄◄◄" tvg-logo="" group-title="",►►► FR ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/543.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="http://www.thelogodb.com/images/media/logo/qstwyy1451141633.png/medium" group-title="",TF1
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/264.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" group-title="►►► Portugal ◄◄◄",M6
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/560.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT  FR" tvg-logo="" group-title="General Streams",EUROSPORT  FR
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/576.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR - EUROSPORT 2" tvg-logo="" group-title="General Streams",FR - EUROSPORT 2
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/575.ts
-#EXTINF:-1 tvg-ID="" tvg-name="|FR|: INFOSPORT" tvg-logo="" group-title="General Streams",|FR|: INFOSPORT
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/584.ts
-#EXTINF:-1 tvg-ID="" tvg-name="|FR|: BEINSPORT 1" tvg-logo="" group-title="General Streams",|FR|: BEINSPORT 1
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/589.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports 2 HD" tvg-logo="" group-title="General Streams",FR: Bein Sports 2 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/595.ts
-#EXTINF:-1 tvg-ID="" tvg-name="|FR|: CANAL   SPORT" tvg-logo="" group-title="General Streams",|FR|: CANAL   SPORT
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/586.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL  HD" tvg-logo="" group-title="General Streams",FR: CANAL  HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/593.ts
-#EXTINF:-1 tvg-ID="" tvg-name="|FR|: CANAL   FRISSON" tvg-logo="" group-title="",|FR|: CANAL   FRISSON
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/587.ts
-#EXTINF:-1 tvg-ID="" tvg-name="|FR|: CANAL   FAMALY" tvg-logo="" group-title="General Streams",|FR|: CANAL   FAMALY
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/588.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY CHANNEL" tvg-logo="" group-title="General Streams",FR: DISNEY CHANNEL
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/590.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Discovery HD" tvg-logo="" group-title="General Streams",FR: Discovery HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/591.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Cine Premier" tvg-logo="" group-title="General Streams",FR: Cine Premier
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/592.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: ANIMAUX HD" tvg-logo="" group-title="General Streams",FR: ANIMAUX HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/594.ts
-#EXTINF:-1 tvg-ID="" tvg-name="|FR|: TEVA" tvg-logo="" group-title="",|FR|: TEVA
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/583.ts
-#EXTINF:-1 tvg-ID="" tvg-name="|FR|: FRANCE 24" tvg-logo="" group-title="General Streams",|FR|: FRANCE 24
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/585.ts
-#EXTINF:-1 tvg-ID="" tvg-name="►►► UK ◄◄◄" tvg-logo="" group-title="",►►► UK ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/541.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM 1HD" tvg-logo="" group-title="",CTH STADIUM 1HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/526.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CTH STADIUM 2HD" tvg-logo="" group-title="",CTH STADIUM 2HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/527.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xpwqxy1433965242.png/medium" group-title="",Sky Sports 1 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/172.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/xpwqxy1433965242.png/medium" group-title="",Sky Sport 1 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/179.ts
-#EXTINF:-1 tvg-ID="SKYN" tvg-name="SKY NEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/qvvxuq1438374093.png/medium" group-title="",SKY NEWS
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/221.ts
-#EXTINF:-1 tvg-ID="FOX News" tvg-name="FOX NEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/sqwqtt1436847658.png/medium" group-title="",FOX NEWS
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/60.ts
-#EXTINF:-1 tvg-ID="" tvg-name="►►► DE ◄◄◄" tvg-logo="" group-title="",►►► DE ◄◄◄
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/542.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky BundesLiga 1 HD" tvg-logo="http://www.thelogodb.com/images/media/logo/wtvtsu1437968463.png/medium" group-title="",DE: Sky BundesLiga 1 HD
-http://iptvesathd.ddns.net:5500/live/pedromil/pedromil/245.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Southpaw (2015)" tvg-logo="http://89.163.225.108:5500/images/1798684.jpg" group-title="General Movies",Southpaw (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/81.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Snoopy e Charlie Brown: Peanuts - O Filme (2015)" tvg-logo="http://164.132.160.240:5500/images/2452042.jpg" group-title="General Movies",Snoopy e Charlie Brown: Peanuts - O Filme (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/107.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Sexo drogas e jingle bell" tvg-logo="http://iptvesathd.ddns.net:5500/images/3530002.jpg" group-title="General Movies",Sexo drogas e jingle bell
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/288.4
-#EXTINF:-1 tvg-ID="" tvg-name="Rock the kasbah - Bem-vindo ao Afeganistão (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3164256.jpg" group-title="General Movies",Rock the kasbah - Bem-vindo ao Afeganistão (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/258.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Point Break - Caçadores de Emoções (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2058673.jpg" group-title="General Movies",Point Break - Caçadores de Emoções (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/260.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pan: Viagem Ã  Terra do Nunca (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2058673.jpg" group-title="",Pan: Viagem Ã  Terra do Nunca (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/129.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Os Oito Odiados (2015)" tvg-logo="http://164.132.160.240:5500/images/3460252.jpg" group-title="General Movies",Os Oito Odiados (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/166.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Orgulho e Preconceito e Guerra (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1374989.jpg" group-title="General Movies",Orgulho e Preconceito e Guerra (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/276.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="O reino gelado 2" tvg-logo="http://iptvesathd.ddns.net:5500/images/3477554.jpg" group-title="General Movies",O reino gelado 2
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/289.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="O Panda do Kung Fu 3 (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2267968.jpg" group-title="General Movies",O Panda do Kung Fu 3 (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/253.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="O ExcÃªntrico Mortdecai (2015)" tvg-logo="http://89.163.225.108:5500/images/3045616.jpg" group-title="General Movies",O ExcÃªntrico Mortdecai (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/108.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="O Caso Spotlight (2015)" tvg-logo="http://164.132.160.240:5500/images/1895587.jpg" group-title="General Movies",O Caso Spotlight (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/150.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="No CoraÃ§Ã£o do Mar (2015)" tvg-logo="http://89.163.225.108:5500/images/1390411.jpg" group-title="",No CoraÃ§Ã£o do Mar (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/130.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Monkey kingdom" tvg-logo="http://iptvesathd.ddns.net:5500/images/3660770.jpg" group-title="General Movies",Monkey kingdom
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/293.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Miss You Already (2015)" tvg-logo="http://164.132.160.240:5500/images/2245003.jpg" group-title="General Movies",Miss You Already (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/165.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Yip Man 3 (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2888046.jpg" group-title="General Movies",Yip Man 3 (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/277.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="War Room (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3832914.jpg" group-title="General Movies",War Room (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/254.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Vendetta (2015)" tvg-logo="http://89.163.225.108:5500/images/0434409.jpg" group-title="General Movies",Vendetta (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/84.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Velocidade furiosa 7" tvg-logo="http://164.132.160.240:5500/images/2820852.jpg" group-title="General Movies",Velocidade furiosa 7
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/77.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="UPSSS! LÃ SE FOI A ARCA... (2015) (PT)" tvg-logo="http://164.132.160.240:5500/images/2820852.jpg" group-title="",UPSSS! LÃ SE FOI A ARCA... (2015) (PT)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/128.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Transporter: PotÃªncia MÃ¡xima (2015)" tvg-logo="http://89.163.225.108:5500/images/2938956.jpg" group-title="General Movies",Transporter: PotÃªncia MÃ¡xima (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/79.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Tomorrowland - Terra do AmanhÃ£ (2015)" tvg-logo="http://89.163.225.108:5500/images/1964418.jpg" group-title="General Movies",Tomorrowland - Terra do AmanhÃ£ (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/134.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The Walk - O Desafio (2015)" tvg-logo="http://164.132.160.240:5500/images/3488710.jpg" group-title="General Movies",The Walk - O Desafio (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/149.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The Veil (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3533916.jpg" group-title="General Movies",The Veil (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/259.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="THE SURVIVIALIST (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3533916.jpg" group-title="General Movies",THE SURVIVIALIST (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/296.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="THE PROGRAM (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3083008.jpg" group-title="General Movies",THE PROGRAM (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/298.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The Lobster (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3464902.jpg" group-title="General Movies",The Lobster (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/255.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The Last Witch Hunter (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3464902.jpg" group-title="General Movies",The Last Witch Hunter (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/83.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The Hunger Games A Revolta - Parte 2 (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1951266.jpg" group-title="General Movies",The Hunger Games A Revolta - Parte 2 (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/169.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="THE EXORCISM (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/4473454.jpg" group-title="General Movies",THE EXORCISM (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/301.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The Boy - Segue as Regras (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3882082.jpg" group-title="General Movies",The Boy - Segue as Regras (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/271.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Ted 2 (2015)" tvg-logo="http://89.163.225.108:5500/images/2637276.jpg" group-title="General Movies",Ted 2 (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/143.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="SURVIVOR (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3247714.jpg" group-title="General Movies",SURVIVOR (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/299.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Suffragette" tvg-logo="http://iptvesathd.ddns.net:5500/images/3077214.jpg" group-title="General Movies",Suffragette
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/286.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Steve Jobs: The Man in the Machine (2015)" tvg-logo="http://89.163.225.108:5500/images/4425064.jpg" group-title="",Steve Jobs: The Man in the Machine (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/131.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Star Wars O Despertar da Força (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2488496.jpg" group-title="General Movies",Star Wars O Despertar da Força (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/251.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Standoff (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3703908.jpg" group-title="General Movies",Standoff (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/270.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Só Podiam Ser Irmãs (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1850457.jpg" group-title="General Movies",Só Podiam Ser Irmãs (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/168.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Sicário - Infiltrado (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3397884.jpg" group-title="General Movies",Sicário - Infiltrado (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/274.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Ronaldo (2015)" tvg-logo="http://89.163.225.108:5500/images/5065822.jpg" group-title="General Movies",Ronaldo (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/135.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Queen of the Desert (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1837636.jpg" group-title="General Movies",Queen of the Desert (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/269.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Perdido em Marte (2015)" tvg-logo="http://164.132.160.240:5500/images/3659388.jpg" group-title="General Movies",Perdido em Marte (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/78.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Pai Há So Um! (2015)" tvg-logo="http://164.132.160.240:5500/images/3659388.jpg" group-title="General Movies",Pai Há So Um! (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/167.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Os Coopers SÃ£o o MÃ¡ximo (2015)" tvg-logo="http://89.163.225.108:5500/images/2279339.jpg" group-title="General Movies",Os Coopers SÃ£o o MÃ¡ximo (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/144.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="O SeguranÃ§a do Shopping: Las Vegas (2015)" tvg-logo="http://89.163.225.108:5500/images/3450650.jpg" group-title="",O SeguranÃ§a do Shopping: Las Vegas (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/132.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="O PRINCIPEZINHO (2015)" tvg-logo="http://89.163.225.108:5500/images/1754656.jpg" group-title="General Movies",O PRINCIPEZINHO (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/127.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="O filho de Saul" tvg-logo="http://iptvesathd.ddns.net:5500/images/3808342.jpg" group-title="General Movies",O filho de Saul
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/290.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="O estagiario" tvg-logo="http://iptvesathd.ddns.net:5500/images/2361509.jpg" group-title="General Movies",O estagiario
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/295.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Noite em Fuga (2015)" tvg-logo="http://89.163.225.108:5500/images/2199571.jpg" group-title="General Movies",Noite em Fuga (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/80.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Mundo JurÃ¡ssico (2015)" tvg-logo="http://89.163.225.108:5500/images/0369610.jpg" group-title="General Movies",Mundo JurÃ¡ssico (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/142.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Mission Impossible - Rogue Nation (2015)" tvg-logo="http://89.163.225.108:5500/images/2381249.jpg" group-title="General Movies",Mission Impossible - Rogue Nation (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/86.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Mad Max: Estrada da FÃºria (2015)" tvg-logo="http://164.132.160.240:5500/images/1392190.jpg" group-title="General Movies",Mad Max: Estrada da FÃºria (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/106.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Legend" tvg-logo="http://iptvesathd.ddns.net:5500/images/3569230.jpg" group-title="General Movies",Legend
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/291.4
-#EXTINF:-1 tvg-ID="" tvg-name="Lavalantula (2015)" tvg-logo="http://164.132.160.240:5500/images/4060576.jpg" group-title="General Movies",Lavalantula (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/164.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Krampus O Lado Negro do Natal (2015)" tvg-logo="http://164.132.160.240:5500/images/3850590.jpg" group-title="General Movies",Krampus O Lado Negro do Natal (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/163.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Junto ao Mar (2015)" tvg-logo="http://164.132.160.240:5500/images/3707106.jpg" group-title="General Movies",Junto ao Mar (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/162.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Jarhead 3 The Siege (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/4616014.jpg" group-title="General Movies",Jarhead 3 The Siege (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/256.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Homem-Formiga (2015)" tvg-logo="http://89.163.225.108:5500/images/0478970.jpg" group-title="",Homem-Formiga (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/133.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Home invasion" tvg-logo="http://iptvesathd.ddns.net:5500/images/5351000.jpg" group-title="General Movies",Home invasion
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/285.4
-#EXTINF:-1 tvg-ID="" tvg-name="Hollow Creek (2016)" tvg-logo="http://164.132.160.240:5500/images/2545538.jpg" group-title="General Movies",Hollow Creek (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/161.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Hitman: Agente 47 (2015)" tvg-logo="http://164.132.160.240:5500/images/2679042.jpg" group-title="General Movies",Hitman: Agente 47 (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/148.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Gods of Egipt" tvg-logo="http://iptvesathd.ddns.net:5500/images/2404233.jpg" group-title="General Movies",Gods of Egipt
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/284.4
-#EXTINF:-1 tvg-ID="" tvg-name="Get a Job (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1468846.jpg" group-title="General Movies",Get a Job (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/257.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Fourth Man Out (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3978720.jpg" group-title="General Movies",Fourth Man Out (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/275.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Forsaken" tvg-logo="http://iptvesathd.ddns.net:5500/images/2271563.jpg" group-title="General Movies",Forsaken
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/292.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Faz-te Homem (2015)" tvg-logo="http://89.163.225.108:5500/images/2561572.jpg" group-title="General Movies",Faz-te Homem (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/146.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Fantastic Four (2015)" tvg-logo="http://89.163.225.108:5500/images/1502712.jpg" group-title="General Movies",Fantastic Four (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/85.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Extraction (2015)" tvg-logo="http://89.163.225.108:5500/images/4382872.jpg" group-title="General Movies",Extraction (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/82.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Exterminador: Genisys (2015)" tvg-logo="http://164.132.160.240:5500/images/1340138.jpg" group-title="General Movies",Exterminador: Genisys (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/104.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Ex Machina (2015)" tvg-logo="http://89.163.225.108:5500/images/0470752.jpg" group-title="General Movies",Ex Machina (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/102.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="EVEREST (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2719848.jpg" group-title="General Movies",EVEREST (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/297.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Deadpool (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/1431045.jpg" group-title="General Movies",Deadpool (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/294.4
-#EXTINF:-1 tvg-ID="" tvg-name="Cidades de Papel (2015)" tvg-logo="http://89.163.225.108:5500/images/3622592.jpg" group-title="General Movies",Cidades de Papel (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/145.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Carro da PolÃ­cia (2015)" tvg-logo="http://89.163.225.108:5500/images/3813310.jpg" group-title="General Movies",Carro da PolÃ­cia (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/109.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="CapitÃ£o FalcÃ£o (2015)" tvg-logo="http://164.132.160.240:5500/images/1941478.jpg" group-title="General Movies",CapitÃ£o FalcÃ£o (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/147.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Cabin Fever (2016)" tvg-logo="http://164.132.160.240:5500/images/3832096.jpg" group-title="General Movies",Cabin Fever (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/160.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="AscensÃ£o de JÃºpiter (2015)" tvg-logo="http://164.132.160.240:5500/images/3832096.jpg" group-title="General Movies",AscensÃ£o de JÃºpiter (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/105.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Anjos e Sombras (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/4019560.jpg" group-title="General Movies",Anjos e Sombras (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/268.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="American Ultra: Agentes ImprovÃ¡veis (2015)" tvg-logo="http://89.163.225.108:5500/images/3316948.jpg" group-title="General Movies",American Ultra: Agentes ImprovÃ¡veis (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/141.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="American Hero (2015)" tvg-logo="http://89.163.225.108:5500/images/4733536.jpg" group-title="General Movies",American Hero (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/110.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Alvin e os Esquilos A Grande Aventura (2015)" tvg-logo="http://164.132.160.240:5500/images/2974918.jpg" group-title="General Movies",Alvin e os Esquilos A Grande Aventura (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/159.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Absolutely Anything - Uma ComÃ©dia IntergalÃ¡ctica (2015" tvg-logo="http://89.163.225.108:5500/images/1727770.jpg" group-title="General Movies",Absolutely Anything - Uma ComÃ©dia IntergalÃ¡ctica (2015
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/111.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="A viagem de Arlo" tvg-logo="http://iptvesathd.ddns.net:5500/images/1979388.jpg" group-title="General Movies",A viagem de Arlo
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/287.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="A Senhora da Furgoneta (2015)" tvg-logo="http://164.132.160.240:5500/images/3722070.jpg" group-title="General Movies",A Senhora da Furgoneta (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/157.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="A Queda de Wall Street (2015)" tvg-logo="http://164.132.160.240:5500/images/1596363.jpg" group-title="General Movies",A Queda de Wall Street (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/156.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="À Procura de Uma Estrela (2015)" tvg-logo="http://164.132.160.240:5500/images/1596363.jpg" group-title="General Movies",À Procura de Uma Estrela (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/273.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="A Perfect Day (2015)" tvg-logo="http://iptvesathd.ddns.net:5500/images/3577624.jpg" group-title="General Movies",A Perfect Day (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/272.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="A Modista (2015)" tvg-logo="http://164.132.160.240:5500/images/2910904.jpg" group-title="General Movies",A Modista (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/155.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="A ForÃ§a da Verdade (2015)" tvg-logo="http://164.132.160.240:5500/images/3322364.jpg" group-title="General Movies",A ForÃ§a da Verdade (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/154.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="A Ãšltima Noitada (2015)" tvg-logo="http://164.132.160.240:5500/images/3322364.jpg" group-title="General Movies",A Ãšltima Noitada (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/158.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="A 5ª Vaga (2016)" tvg-logo="http://iptvesathd.ddns.net:5500/images/2304933.jpg" group-title="General Movies",A 5ª Vaga (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/252.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="90 MINUTES IN HEAVEN (2015)" tvg-logo="http://89.163.225.108:5500/images/4337690.jpg" group-title="General Movies",90 MINUTES IN HEAVEN (2015)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/136.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="50 SOMBRAS DE GREY (2016)" tvg-logo="http://89.163.225.108:5500/images/4337690.jpg" group-title="General Movies",50 SOMBRAS DE GREY (2016)
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/300.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="007 SPECTRE" tvg-logo="http://164.132.160.240:5500/images/2379713.jpg" group-title="General Movies",007 SPECTRE
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/103.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Triple 9" tvg-logo="http://iptvesathd.ddns.net:5500/images/1712261.jpg" group-title="General Movies",Triple 9
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/568.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The finest hours" tvg-logo="http://iptvesathd.ddns.net:5500/images/2025690.jpg" group-title="General Movies",The finest hours
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/569.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The choice" tvg-logo="http://iptvesathd.ddns.net:5500/images/3797868.jpg" group-title="General Movies",The choice
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/570.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Special correspndents" tvg-logo="http://iptvesathd.ddns.net:5500/images/4181052.jpg" group-title="General Movies",Special correspndents
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/571.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Risen" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="General Movies",Risen
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/572.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E01" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E01
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/611.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E02" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E02
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/597.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E03" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E03
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/598.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E04" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E04
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/599.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E05" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E05
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/600.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E06" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E06
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/601.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E07" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E07
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/602.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E08" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E08
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/603.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E09" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E09
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/612.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E10" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E10
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/604.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E11" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E11
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/605.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E12" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E12
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/606.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E13" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E13
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/607.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E14" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E14
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/608.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E15" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E15
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/609.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Greys Anatomy S12E16" tvg-logo="http://iptvesathd.ddns.net:5500/images/3231054.jpg" group-title="SERIES",Greys Anatomy S12E16
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/610.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="Fear The Walking Dead S02E01" tvg-logo="http://iptvesathd.ddns.net:5500/images/3743822.jpg" group-title="SERIES",Fear The Walking Dead S02E01
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/596.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E01" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E01
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/627.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E02" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E02
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/613.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E03" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E03
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/614.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E04" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E04
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/615.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E05" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E05
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/616.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E06" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E06
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/617.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E07" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E07
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/618.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E08" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E08
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/619.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E09" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E09
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/628.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E10" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E10
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/620.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E11" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E11
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/621.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E12" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E12
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/622.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E13" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E13
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/623.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E14" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E14
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/624.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E15" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E15
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/625.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="The.Walking.Dead.S06E16" tvg-logo="http://iptvesathd.ddns.net:5500/images/not-found.jpg" group-title="SERIES",The.Walking.Dead.S06E16
-http://iptvesathd.ddns.net:5500/movie/pedromil/pedromil/626.mkv
+#EXTINF:-1,[COLOR magenta][I][B]ARGIVAI TV[/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,[COLOR red][I][B]Em Manutenção [/B][/I][/COLOR]
+http://0.0.0.0:1234
+
+
+
+#EXTINF:-1 group-title="PORTUGAL",[COLOR blue][I][B] PORTUGAL TDT[/B][/I][/COLOR]
+http://0.0.0.0:1234 (ARGIVAI)
+
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="TDT", RTP 1
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" tvg-logo="SIC.png" group-title="TDT", SIC
+http://213.13.26.11:1935/live/sic/hasbahca.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="TDT", TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL",[COLOR blue][I][B] CANAIS RELIGIOSOS [/B][/I][/COLOR]
+http://0.0.0.0:1234 (ARGIVAI)
+#EXTINF:-1,CANÇÃO NOVA SE
+http://cnhls-lh.akamaihd.net:80/i/cnhls_1@147036/index_508_av-b.m3u8
+
+#EXTINF:-1 tvg-id="tvg-logo="cançao nova.png" group-title="PORTUGAL",CANÇÃO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="PORTUGAL",CAPELINHA FÁTIMA
+rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?
+
+
+
+
+
+#EXTINF:-1 group-title="PORTUGAL",[COLOR blue][I][B] PORTUGAL[/B][/I][/COLOR]
+http://0.0.0.0:1234 (ARGIVAI)
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",RTP 1
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",RTP 1
+http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",RTP 1
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",RTP 2
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="rtp2.png" group-title="PORTUGAL",RTP 2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",SIC
+http://213.13.26.11:1935/live/sic/magellan.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",SIC
+http://noscdn1.connectedviews.com:1935/live/sic.stream/chunklist_w1329392400.m3u8 
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL",SIC
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png" group-title="PORTUGAL",TVI
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP3.jpg", RTP3
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="tvi_24.png" group-title="PORTUGAL",TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1 tvg-id="” tvg-logo="" group-title="CANAIS PORTUGUESES",TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
+
+
+#EXTINF:-1, [COLOR blue][I][B]GRUPO_RTP[/B][/I][/COLOR]
+http://0.0.0.1234
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png" group-title="PORTUGAL",RTP ÁFRICA
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="rtp_memoria.png" group-title="PORTUGAL",RTP MEMÓRIA
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png" group-title="PORTUGAL",RTP MADEIRA
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png" group-title="PORTUGAL",RTP AÇORES
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",RTP INTERNACIONAL
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="tcv.png" group-title="PORTUGAL",TV CABO VERDE
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
+
+#EXTINF:-1, [COLOR blue][I][B]NOTICIAS[/B][/I][/COLOR]
+http://0.0.0.1234
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",SIC NOTICIAS 
+rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html
+#EXTINF:-1 tvg-logo="Sic Noticias.png" group-title="NOTICIAS", SIC NOTICIAS
+rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1
+
+#EXTINF:-1 tvg-logo="Tvi 24.png" group-title="NOTICIAS", TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP3.jpg", RTP3 
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?tvdireto swfVfy=1 live=1 timeout=15
+#
+
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="Correio Manha.png" group-title="PORTUGAL",CMTV 
+http://c.securestreaming.xyz:1935/live/cmtvU6O9b/chunklist_w395815691.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzE0MTYxMyZoYXNoX3ZhbHVlPTcyNDM5OTJjNTEyNDdjOWY1ZWZlZGVmNjJjNWUyZDIxJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+
+#EXTINF:-1 tvg-logo="Euronews.png" group-title="NOTICIAS", EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+#EXTINF:-1 tvg-logo="ECONOMICO TV.png" group-title="NOTICIAS", ECONOMICA TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="Porto Canal.png" group-title="PORTUGAL",PORTO CANAL 
+http://c.securestreaming.xyz:1935/live/portocanalBmYH5/chunklist_w276004722.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzE0MTkyNSZoYXNoX3ZhbHVlPTg0NzJhYmMwZDRkZGNkNmNlMmU3NTY5YTcwZjhjNWUyJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+#EXTINF:-1 tvg-id="Porto Canal" tvg-logo="Porto Canal.png" group-title="PORTUGAL", PORTO CANAL  HD 
+http://62.210.248.96:11000/live/mikegodin23@gmail.com_pot/mikegodin23@gmail.com_port/2706.ts
+ 
+#EXTINF:-1, [COLOR blue][I][B]FILMES_E_SERIES TESTE[/B][/I][/COLOR]
+http://0.0.0.1234
+
+#EXTINF:-1 channelId="2871" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/tvc1.png" , TV CINE 1
+http://ipsatpro.com:8000/live/10001/10001/936.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/tvc1.png" , TV CINE 1 low
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/936.ts
+#EXTINF:-1 channelId="2873" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/tvc2.png" , TV CINE 2
+http://ipsatpro.com:8000/live/10001/10001/935.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/tvc2.png" , TV CINE 2 low
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/935.ts
+#EXTINF:-1 channelId="2875" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/tvc3.png" , TV CINE 3
+http://ipsatpro.com:8000/live/10001/10001/934.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/tvc3.png" , TV CINE 3 low
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/934.ts
+#EXTINF:-1 channelId="2877" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/tvc4.png" , TV CINE 4
+http://ipsatpro.com:8000/live/10001/10001/933.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/tvc4.png" , TV CINE 4 low
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/933.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/tvseries.png" , TV SERIES
+http://ipsatpro.com:8000/live/10001/10001/930.m3u8
+#EXTINF:-1 channelId="177" tvg-logo="http://www.thelogodb.com/images/media/logo/rwptru1436892145.png" , FOX (SD)
+http://c.securestreaming.xyz:1935/live/foxCNqBZ/chunklist_w515306870.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1Njk2NzMyNSZoYXNoX3ZhbHVlPTc1YTM3YTFjM2ZiZThmMTk2NTI5ZWJjMjdlMzExNTM0JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+#EXTINF:0 channelId="2249" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/3b/Fox_(7).png/revision/latest?cb=20141101150022" group-title="ENTRETENIMENTO" , FOX COMEDY
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/923.ts
+#EXTINF:-1 channelId="1572" tvg-logo="http://www.thelogodb.com/images/media/logo/xrqpsr1435103548.png" , FOX CRIME (SD)
+http://c.securestreaming.xyz:1935/live/foxcrimeTLVOF/chunklist_w931024935.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODkwMSZoYXNoX3ZhbHVlPWNkY2I2ODM1NmI1YTUwNWM5Yzg0ZGZkZDQ0MTlmNzg3JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+#EXTINF:0 channelId="1574" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20120414200156" group-title="ENTRETENIMENTO" , AXN WHITE
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/916.ts
+#EXTINF:0 channelId="1575" tvg-logo="http://www.thelogodb.com/images/media/logo/vsyrsv1445114274.png" group-title="ENTRETENIMENTO" , AXN BLACK
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/932.ts
+#EXTINF:0 channelId="1573" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/axn.png" group-title="ENTRETENIMENTO" , AXN
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/915.ts
+#EXTINF:-1 channelId="1573" tvg-logo="http://www.thelogodb.com/images/media/logo/yusrru1445113463.png" , AXN (SD)
+http://c.securestreaming.xyz:1935/live/axnpCrwz/chunklist_w1762303413.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzOTIzNyZoYXNoX3ZhbHVlPWJlZGNiYmU4YjJiNTZmMTY4Y2QzOTc5M2U4NmVmYjUwJnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+#EXTINF:0 channelId="73" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/syfy.png" group-title="Group N/A" , SYFY
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/902.ts
+#EXTINF:0 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/cinemundo.png" group-title="Group N/A" , CINEMUNDO
+http://fastroot.ddns.net:8000/live/festas/festas/24.ts
+#EXTINF:0 channelId="-1" tvg-logo="http://www.adslzone.tv/app/uploads/2011/06/533px-Canal_Hollywood.svg_.png" group-title="ENTRETENIMENTO" , HOLLYWOOD
+http://fastroot.ddns.net:8000/live/festas/festas/21.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.thelogodb.com/images/media/logo/vqtrqu1436898965.png" , HOLLYWOOD (SD)
+http://c.securestreaming.xyz:1935/live/hollywoodTlGw3/chunklist_w1477038967.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NzEzODc3NyZoYXNoX3ZhbHVlPWUzMTlhNGY2YzgzNWEzMjY5ODE0YTc3MWU2ZGE4YWQ2JnZhbGlkbWludXRlcz0zMCZpcD1DSCY%3D conn=S:OK
+#EXTINF:0 channelId="2848" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/mov.png" group-title="ENTRETENIMENTO" , MOV
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/929.ts
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KbRXwLr.png",[B][COLOR skyblue]AGENDA DAS TRANSMISSOES TELEVISIVAS[/B][/COLOR] 
+http://0.0.0.0:1234 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BLuGCDF.jpg",[B][COLOR skyblue]FORMULA 1 2016[/B][/COLOR] 
+http://0.0.0.0:1234 
+
+
+
+#EXTINF:-1 group-title=" Jogos do Fim de Semana ",[COLOR lime]Jogos do Fim de Semana  [/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mj4wMdX.png?2",[B][COLOR skyblue]LIGA NOS [/B][/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", [COLOR blue][I][B]CANAIS EM TESTE 24 HORAS [/B][/I][/COLOR]
+http://0.0.0.1234
+#EXTINF:-1 group-title="PT" tvg-name="RTPM", RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+#EXTINF:-1 group-title="PT" tvg-name="TVI", TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1 group-title="PT" tvg-name="RTPi", RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+#EXTINF:-1 group-title="PT" tvg-name="RTP1",  RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
+#EXTINF:-1 group-title="PT" tvg-name="RTP2", RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
+#EXTINF:-1 group-title="PT" tvg-name="RTP3", RTP 3
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+#EXTINF:-1 group-title="PT" tvg-name="RTPMAD", RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira_5ch1016h264H14.stream/livestream.m3u8
+#EXTINF:-1 group-title="PT" tvg-name="RTPACO",  RTP AÇORES
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
+#EXTINF:-1 group-title="PT" tvg-name="TVI 24",  TVI24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8
+#EXTINF:-1 group-title="PT" tvg-name="RTPA", RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv1.png" group-title="DESPORTO" , SPORT TV 1 | STREAM 1
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/880.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv1.png" group-title="DESPORTO" , SPORT TV 1 | STREAM 2
+http://ipsatpro.com:8000/live/10001/10001/880.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv2.png" group-title="DESPORTO" , SPORT TV 1 | STREAM 3
+http://178.33.231.219:88/live/reda/reda/64.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv1.png" group-title="DESPORTO" , SPORT TV 1 | STREAM 4
+http://fastroot.ddns.net:8000/live/festas/festas/48.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv1.png" group-title="DESPORTO" , SPORT TV 1 | STREAM 5
+http://mainstream.dyndns.tv:8000/live/Stone15hurst/Stone15hurst/209.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv1.png" group-title="DESPORTO" , SPORT TV 1 | STREAM 6
+http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv2.png" group-title="DESPORTO" , SPORT TV 2 | STREAM 1
+http://ipsatpro.com:8000/live/10001/10001/881.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv2.png" group-title="DESPORTO" , SPORT TV 2 | STREAM 2
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/881.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv2.png" group-title="DESPORTO" , SPORT TV 2 | STREAM 3
+http://178.33.231.219:88/live/reda/reda/65.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv2.png" group-title="DESPORTO" , SPORT TV 2 | STREAM 4
+http://fastroot.ddns.net:8000/live/festas/festas/118.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv3.png" group-title="DESPORTO" , SPORT TV 3 | STREAM 1
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/882.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv3.png" group-title="DESPORTO" , SPORT TV 3 | STREAM 2
+http://fastroot.ddns.net:8000/live/festas/festas/45.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv3.png" group-title="DESPORTO" , SPORT TV 3 | STREAM 3
+http://178.33.231.219:88/live/reda/reda/66.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv4.png" group-title="DESPORTO" , SPORT TV 4 | STREAM 1
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/883.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv4.png" group-title="DESPORTO" , SPORT TV 4 | STREAM 2
+http://fastroot.ddns.net:8000/live/festas/festas/46.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv4.png" group-title="DESPORTO" , SPORT TV 4 | STREAM 3
+http://178.33.231.219:88/live/reda/reda/67.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv5.png" group-title="DESPORTO" , SPORT TV 5 | STREAM 1
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/884.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv5.png" group-title="DESPORTO" , SPORT TV 5 | STREAM 2
+http://fastroot.ddns.net:8000/live/festas/festas/47.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv5.png" group-title="DESPORTO" , SPORT TV 5 | STREAM 3
+http://178.33.231.219:88/live/reda/reda/68.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="DESPORTO" , BOLA TV
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/910.tss
+#EXTINF:-1 channelId="1546" tvg-logo="http://static.timefor.tv/imgs/epg/logos/chelseatv_uk_big.png" group-title="DESPORTO" , CHELSEA_TV
+http://hyper.de1-eu.com:8000/live/abdi/abdi/2843.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv1.png" group-title="DESPORTO" , BENFICA TV 1 | STREAM 1
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/900.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv1.png" group-title="DESPORTO" , BENFICA TV 1 | STREAM 2
+http://fastroot.ddns.net:8000/live/festas/festas/56.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv1.png" group-title="DESPORTO" , BENFICA TV 1 | STREAM 3
+http://fastroot.ddns.net:8000/live/festas/festas/53.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv1.png" group-title="DESPORTO" , BENFICA TV 1 | STREAM 4
+http://fastroot.ddns.net:8000/live/festas/festas/54.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png" group-title="DESPORTO" , BENFICA TV 2 | STREAM 1
+http://ipsatpro.com:8000/live/lancillotto/lancillotto/899.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png" group-title="DESPORTO" , BENFICA TV 2 | STREAM 2
+http://fastroot.ddns.net:8000/live/festas/festas/55.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png" group-title="DESPORTO" , BENFICA TV 2 | STREAM 2
+http://fastroot.ddns.net:8000/live/festas/festas/122.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png" group-title="DESPORTO" , BENFICA TV 2 | STREAM 2
+http://fastroot.ddns.net:8000/live/festas/festas/57.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sporting.jpg" group-title="DESPORTO" , SPORTING TV
+http://fastroot.ddns.net:8000/live/festas/festas/59.ts
+
+
+
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", [COLOR blue][I][B]CANAIS EM TESTE  [/B][/I][/COLOR]
+http://0.0.0.1234
+
+
+#EXTINF:-1,SPORTTV 1 SD 
+http://tvhd.dynu.com:8000/live/IPTV_PARA_TODOS/FREE/2243.ts
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/c0QA4et.png",SPORT TV 1 
+http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1mujv4g.png",SPORT TV 1 
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORTS
+
+
+
+
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xtxvvs1438185884.png" group-title="PORTUGAL",[COLOR red][I][B]RTP 1[/B][/I][/COLOR]
+http://ipsatpro.com:8000/live/1975/1975/895.m3u8
+
+
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png" group-title="PORTUGAL",[COLOR red][I][B]RTP 2[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png" group-title="PORTUGAL",[COLOR red][I][B]RTP 3[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="rtp3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rwqqsy1455801826.png" group-title="PORTUGAL",[COLOR red][I][B]RTP 3 [/B][/I][/COLOR]
+http://evolive-tv.com:8000/live/genio/genio/299.m3u8
+
+
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wvwtwt1435096287.png" group-title="PORTUGAL",[COLOR red][I][B]SIC SD[/B][/I][/COLOR]
+http://cp.dmbshare.net:8000/live/Mark/Mark/3459.m3u8
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="PORTUGAL",[COLOR red][I][B]TVI HD[/B][/I][/COLOR]  
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group-title="PORTUGAL",[COLOR red][I][B]TVI[/B][/I][/COLOR]  
+http://api.iptv.ink/pl.m3u8?ch=77600478
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group-title="PORTUGAL",[COLOR red][I][B]TVI[/B][/I][/COLOR]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png" group-title="PORTUGAL",[COLOR red][I][B]TVI[/B][/I][/COLOR]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png" group-title="PORTUGAL",[COLOR red][I][B]SIC NOTICIAS [/B][/I][/COLOR] 
+http://ipsatpro.com:8000/live/1975/1975/903.m3u8
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rspyuw1433341651.png" group-title="PORTUGAL",[COLOR red][I][B]TVI 24[/B][/I][/COLOR]
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rspyuw1433341651.png" group-title="PORTUGAL",[COLOR red][I][B]TVI 24[/B][/I][/COLOR]
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rspyuw1433341651.png" group-title="PORTUGAL",[COLOR red][I][B]TVI 24[/B][/I][/COLOR]  
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
+
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png" group-title="PORTUGAL",[COLOR red][I][B]RTP ÁFRICA[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/rpquyv1446848022.png" group-title="PORTUGAL",[COLOR red][I][B]RTP MEMÓRIA HD[/B][/I][/COLOR]  
+http://ipsatpro.com:8000/live/1975/1975/890.m3u8
+
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="http://www.thelogodb.com/images/media/logo/rpquyv1446848022.png" group-title="PORTUGAL",[COLOR red][I][B]RTP MEMÓRIA[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png" group-title="PORTUGAL",[COLOR red][I][B]RTP MADEIRA HD[/B][/I][/COLOR]
+http://ipsatpro.com:8000/live/1975/1975/891.m3u8
+
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png" group-title="PORTUGAL",[COLOR red][I][B]RTP MADEIRA[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png" group-title="PORTUGAL",[COLOR red][I][B]RTP AÇORES HD[/B][/I][/COLOR]
+http://ipsatpro.com:8000/live/1975/1975/893.m3u8
+
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png" group-title="PORTUGAL",[COLOR red][I][B]RTP AÇORES[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png" group-title="PORTUGAL",[COLOR red][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
+
+
+
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png" group-title="PORTUGAL",[COLOR red][I][B]ECONÓMICO TV[/B][/I][/COLOR]
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group-title="PORTUGAL",[COLOR red][I][B]EURONEWS[/B][/I][/COLOR]
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png" group-title="PORTUGAL",[COLOR red][I][B]EURONEWS[/B][/I][/COLOR]
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="CANAIS P2P",[COLOR blue][I][B] Estes  canais Passam a Liga Portuguesa teste [/B][/I][/COLOR]
+http://0.0.0.0:1234 (ARGIVAI)
+
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 1 [/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&mode=1&name=acestream&mode=1&name=SPORT TV 1
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 2 [/COLOR]  
+plugin://program.plexus/?mode=1&urlacestream://14468e2d369fabdff33d5c546e9585ec52af815f&mode=1&name=acestream&mode=1&name=SPORT TV 2  
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 3 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://7a80e5b44f50faa3c802e8da53ac7a22be0171be&mode=1&name=acestream&mode=1&name=SPORT TV 3  
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 4 [/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://ad5b5478899b693238d8b96238f86d715737c230mode=1&name=acestream&mode=1&name=SPORT TV 4 
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 5 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://592445fe3244632cb50e4eb0dc66e3f61c3f3a6b&mode=1&name=acestream&mode=1&name=SPORT TV 5 
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415&mode=1&name=acestream&mode=1&name=BENFICA TV 1  
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 2 [/COLOR]  
+plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+
+#EXTINF:-1 group-title="DESPORTO PT",[COLOR blue][I][B] DESPORTO TESTE[/B][/I][/COLOR]
+http://0.0.0.0:1234 (ARGIVAI)
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ryxprx1436898834.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 HD [/B][/I][/COLOR]
+http://mediaptv.zapto.org:88/live/free/iptv/18.ts
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]
+http://mediaptv.zapto.org:88/live/free/iptv/17.ts
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]
+http://www.t12v.com:8000/live/okba/okba/501.ts
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/urqtvs1436898824.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 1 SD [/B][/I][/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3457.m3u8
+
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wwwxrx1436898851.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 2 HD [/B][/I][/COLOR]
+http://mediaptv.zapto.org:88/live/free/iptv/20.ts
+
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 2 [/B][/I][/COLOR]
+http://mediaptv.zapto.org:88/live/free/iptv/19.ts
+
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvrpw1436898843.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 2 SD [/B][/I][/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3456.m3u8
+
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qrwvps1436886569.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 3 HD [/B][/I][/COLOR]
+http://mediaptv.zapto.org:88/live/free/iptv/21.ts
+
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/twyypw1436898859.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 3 SD [/B][/I][/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3458.m3u8
+
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/vtxqpw1436886719.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 4 HD [/B][/I][/COLOR]
+http://mediaptv.zapto.org:88/live/free/iptv/24.ts
+
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wywyss1436887367.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 4 SD [/B][/I][/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3455.m3u8
+
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/ruyqvt1436886834.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 5 HD [/B][/I][/COLOR]
+http://www.t12v.com:8000/live/okba/okba/1137.ts
+
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png" group-title=“DESPORTO”,[COLOR blue][I][B]SPORT TV 5 SD [/B][/I][/COLOR]
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3454.m3u8
+
+
+
+
+#EXTINF:-1 group-title="DESPORTO PT",[COLOR blue][I][B] DESPORTO PT[/B][/I][/COLOR]
+http://0.0.0.0:1234 (ARGIVAI)
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,SPORT TV 1 
+rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,SPORT TV 1
+rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c timeout=15
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="sporttv4.png" group-title=“DESPORTO”,SPORT TV 4 
+rtmp://199.19.95.95:443/flash playpath=22172?MTQ1NDk2NzcxOTs5NzU2MWZiYTk2NzhkZDYzM2Y2MmRkYmJiN2JjY2Y1MA== swfUrl=http://static3.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/JlZDEzNDUwYTE5MmYzOGYxNWM2YjNi/c3BvcnQ1OmVjNjM1Y2E2MWM4OGYwMDU5NmI4MTA1NDk2NmMxNTEwOjgzMTNiOTVhMW
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,BENFICA TV 
+http://91.204.214.106:23201/stolen/250l/xenixos.7z
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,BENFICA TV 2
+http://91.204.214.106:23201/stolen/233w/xenixos.7z
+
+#EXTINF:-1,[COLOR blue][I][B]DESPORTO_INTERNACIONAL[/B][/I][/COLOR]
+http://0.0.0.1234
+
+#EXTINF:-1 tvg-id="telekanal_futbol.png" tvg-logo="telekanal_futbol.png" group-title=“DESPORTO”,TELEKANAL (RUS) 
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1 tvg-id="silk sport.png" tvg-logo="Esportes.png" group-title=“DESPORTO”,SILK 3 (GEO) 
+http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title=“DESPORTO”,SPORTS USA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1, [COLOR blue][I][B]BRASIL[/B][/I][/COLOR]
+http://0.0.0.1234
+#EXTINF:-1 tvg-logo="CHEF TV.png"  group-title="BRASIL",  CHEF TV 
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-logo="Rede TV HD.png"  group-title="BRASIL",  REDE TV 
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
+#EXTINF:-1 tvg-logo="tv_globo_pt.png"  group-title="BRASIL",  TV GLOBO 
+rtmp://srv6.zoeweb.tv/z821-live/stream2
+#EXTINF:-1 tvg-logo="Record RJ.png"  group-title="BRASIL",  RECORD TV 
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8
+#EXTINF:-1 tvg-logo="Tv Gazeta.png"  group-title="BRASIL",  GAZETA TV 
+http://shflash.directradios.com:1935/gazeta3/stream/PAZ_Chega_de_Guerras.m3u8#megaIPTVArgentina
+#EXTINF:-1 tvg-logo="Novo Tempo.png"  group-title="BRASIL",  NOVO TEMPO 
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="TV Escola.png"  group-title="BRASIL",  TV ESCOLA 
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="Record News.png"  group-title="BRASIL",  RECORD NEWS 
+rtmp://flash.midiaip.com.br/recordnewses/recordnewses
+#EXTINF:-1 tvg-logo="Amazon-Sat.png"  group-title="BRASIL",  AMAZONA TV 
+http://livela.sambatech.com.br:80/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8
+#EXTINF:-1,[COLOR blue][I][B] CANAIS ITALIANOS [/B][/I][/COLOR]
+http://0.0.0.0:1234
+ 
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="RAI 1.png" group-title="PORTUGAL", RAI 1 
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 2.png" group-title="PORTUGAL", RAI 2 
+http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai 3.png" group-title="PORTUGAL", RAI 3 
+http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-logo="Rai News.png" group-title="PORTUGAL", RAI 24 
+http://origin2.live.web.tv.streamprovider.net/streams/121612976e4808528d2ba7edc446887c/index.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, RAI SPORT 1 
+http://81.92.105.134:5555/pl.m3u8?channel=534&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1 group-title=INSPIRATIONLINKS, RAI SPORT 2 
+http://81.92.105.134:5555/pl.m3u8?channel=535&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1 group-title=INSPIRATIONLINKS, SPORT ITALIA 
+http://81.92.105.134:5555/pl.m3u8?channel=539&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1 group-title=INSPIRATIONLINKS, LA 1 (IT) 
+http://81.92.105.134:5555/pl.m3u8?channel=175&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1 group-title=INSPIRATIONLINKS, ITALIA 1 
+http://81.92.105.134:5555/pl.m3u8?channel=533&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1 group-title=INSPIRATIONLINKS, CIELO 
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/stream2/streamPlaylist.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, VIDEOLINA 
+rtmp://178.33.229.111/live/Videolina
+ 
+#EXTINF:-1,[COLOR blue][I][B] CANAIS ESPANHÓIS [/B][/I][/COLOR]
+http://0.0.0.0:1234
+ 
+#EXTINF:-1 group-title=INSPIRATIONLINKS, TVE 
+http://31.220.41.111:80/LiveEdgeTesting/TVELASD/playlist.m3u8?token=
+#EXTINF:-1 group-title=INSPIRATIONLINKS, TVE 24 
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, ANTENA3 
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, TV GALIZIA 
+http://media3.crtvg.es/live/tvge/hasbahca.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, TELE SUR 
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8?
+#EXTINF:-1 group-title=INSPIRATIONLINKS, ANDALUCIA 
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8?
+#EXTINF:-1 group-title=INSPIRATIONLINKS, TV MARBELLA 
+http://cloud1.cdnstreamserver.com/olmarbella/livestream1/chunklist.m3u8#sthash.XII1ct8X.dpuf
+#EXTINF:-1 group-title=INSPIRATIONLINKS, LA SEXTA 
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+ 
+#EXTINF:-1 group-title=INSPIRATIONLINKS, HUELVA COSTA 
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
+ 
+#EXTINF:-1 group-title=INSPIRATIONLINKS, MEGA 
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, ASTURIAS 
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, AMERICA TV (per) 
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, TVP (arg) 
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=INSPIRATIONLINKS, TVP1 
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, CDN SPORTS (mex) 
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS, TELE ANTILLHAS 
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8?
+
+#EXTINF:-1 group-title="FILMES" tvg-logo="Film_Zone.png", [COLOR blue][I][B]FILMES [/B][/I][/COLOR]
+http://0.0.0.1234
+#EXTINF:-1 tvg-id="" " group-title="FILMES",[COLOR Gold ][I][B] Terminus  (2016) [/B][/I][/COLOR] 
+http://213.136.90.30:8000/movie/test/test/10828.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Standoff  (2016) [/B][/I][/COLOR] 
+http://213.136.90.30:8000/movie/test/test/11403.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Mercury Plains  (2016) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/11423.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Lesbian Vampire Killers   (2016) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/8006.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Jarhead 3 - The Siege   (2016)[/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/11430.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Dirty Grandpa  (2016) [/B][/I][/COLOR] 
+http://213.136.90.30:8000/movie/test/test/11357.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Deadpool  (2016) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/11405.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Creed.  (2015)[/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/10313.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Zipper  (2015)[/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7939.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Z for Zachariah  (2015)[/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7919.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]WUTHERING HIGH SCHOOL  (2015)[/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/5954.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Woman in Gold  (2015)[/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6079.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]We Are Your Friends  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/8411.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]We Are Still Here  (2015) [/B][/I][/COLOR] 
+http://213.136.90.30:8000/movie/test/test/7914.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]War Pigs  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7911.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]VENDETTA  (2015)[/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5963.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Unfinished Business  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6010.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]UNFIENDED  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/5967.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Turbo Kid  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/7920.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]TRUE STORY  (2015) [/B][/I][/COLOR] 
+http://213.136.90.30:8000/movie/test/test/5969.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Trainwreck  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6002.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Tomorrowland  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/5999.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Time Out of Mind  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6001.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The World Made Straight  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6088.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Walk  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8407.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Vatican Tapes  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/7916.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The True Cost  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6084.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Transporter Refueled  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8330.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Subjects  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8005.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The SpongeBob Movie Sponge Out of Water  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/6004.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Rise of the Krays  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7929.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Revenant  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/9787.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Pack  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8000.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Overnight  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7995.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]THE NIGHTMARE  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5922.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Martian  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8399.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Man from U.N.C.L.E.  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8337.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Longest Ride  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8400.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Lobster  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8415.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Last Witch Hunter  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/9792.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Intern  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10329.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Hateful Eight  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10326.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Gunman  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/6094.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Gallows  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6261.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Duke of Burgundy  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6097.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Danish Girl  (2015) [/B][/I][/COLOR]   .
+http://213.136.90.30:8000/movie/test/test/10321.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Danish Girl  (2015)[/B][/I][/COLOR] 
+http://213.136.90.30:8000/movie/test/test/9789.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The D Train  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6091.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Cokeville Miracle  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7910.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Cobbler  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6078.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Big Short  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10323.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Bedford Incident  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8086.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The Abandoned  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/11426.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]The 33  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10311.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]THAT SUGAR FILM  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5889.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Terminator Genisys  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5910.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Teen Lust  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7999.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Ted 2  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6011.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Tales of Halloween  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7906.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]SWORD OF VENGEANCE  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5923.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]SuperBob  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7998.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Street Fighter - Punho Assassino  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5246.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]STRANGERLAND  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/5956.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Straight Outta Compton  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8095.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Starship Apocalypse  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7996.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Star Wars VII - The Force Awakens  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10073.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Star Wars The Force Awakens  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10319.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Star Wars - VII - The Force Awakens  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10099.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Star Trek Renegades  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6145.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Spy  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6005.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Spectre  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/9794.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Southpaw  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7909.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Solace  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10051.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]SKIN TRADE  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5921.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Sisters  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10318.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Sicario  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/9066.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Selma  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6058.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Self less  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8002.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Scooby Doo! And Kiss Rock and Roll Mystery  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6256.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]SCOOBY DOO KISS OF ROCK  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6000.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]San Andreas  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6853.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Ronaldo  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8333.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]ROBOT OVERLOADS  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5949.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Riot  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10050.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Results  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7936.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Regression  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10317.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]PREY OF DEATH  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5899.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Prey for Death  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5883.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]PRESERVATION  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5966.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Predestination  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6069.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]POUND OF FLASH  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5920.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Point Break  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10074.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Pixels  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6250.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Pitch Perfect.2  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10316.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Pitch Perfect 2  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5245.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Paper Towns  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7917.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Operator  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7918.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Now Add Honey  (2015) [/B][/I][/COLOR] 
+http://213.136.90.30:8000/movie/test/test/6147.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Nina Forever  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/11425.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Narcopolis  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7912.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Mythica The Darkspore  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7952.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]MORTDECAI  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5917.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Momentum  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7992.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Mission Impossible - Rogue Nation  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/6096.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Mega Shark vs. Kolossus  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6251.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Max  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7915.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Magic Mike XXL  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6148.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Mad Max Fury Road  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6264.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Little Boy  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5243.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]LILA AND EVE  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/5941.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Legend  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10315.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Lazer Team  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/11418.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Last Shift  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7944.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Krampus - The Reckoning  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/11431.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Knock Knock  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7941.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Kill the Messenger  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6067.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Kantemir  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7937.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Jurassic World  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7907.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Jurassic Prey  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7953.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Joy  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10072.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Jeruzalem  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/11421.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Jem and the Holograms  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/9793.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Into the Grizzly Maze  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7913.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Infini  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7922.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]I'll See You in My Dreams  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6255.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]I Survived a Zombie Holocaust  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6260.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Howl  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7960.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Housebound  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6060.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Home Sweet Hell  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6061.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Hitman Agent  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6146.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Hidden  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7966.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Heist  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/11422.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]He Never Died  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/9067.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Hackney's Finest  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6362.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Gascoigne  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6070.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Focus  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10891.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Final The Rapture  (2015) [/B][/I][/COLOR]
+http://213.136.90.30:8000/movie/test/test/7964.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Film with Jonathan Ross  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8004.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Fifty Shades of Grey  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/8141.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Fathers and Daughters  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10064.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]FANTASTIC FOUR  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5976.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Extraction Day  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7955.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Everest  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7994.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Escort  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6026.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Entourage  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6357.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Ejecta  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6068.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Eat  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6053.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Drishyam  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5242.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]DRAGONHEART 3  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5934.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Dragon Ball Z Resurrection  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6262.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Dope  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7973.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]DO YOU BELIEVE?  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5866.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Death Valley  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7963.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Dead Rising Watchtower  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7954.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]DEAD RISING WATCHER  (2015)   [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5912.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]DARK PLACES  (2015)   [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5915.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Dark Moon Rising  (2015)[/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5240.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Dancer and the Dame (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6045.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Curious George 3 Back to the Jungle  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/6258.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Cop Car  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7924.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Concussion  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8530.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Cobain Montage of Heck  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6114.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]CLUB LIFE  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6041.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Close Range  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8410.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Cinderella  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8140.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]CHAPPIE  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5918.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Chain of Command  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7935.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Cartel Land  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7971.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]By The Sea  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10841.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]BURYING THE EX  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6030.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Bridge of Spies.  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/10312.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Bridge Of Spies  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/8003.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]BOULEVARD  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6038.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Black Mass  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7970.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]BIG SKY  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5975.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Beyond the Mask  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7869.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]BESSIE  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5916.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Beasts of No Nation  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7965.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Battle for Sevastopol  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6113.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Barely Lethal  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6044.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Bad Roomies  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/11429.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Backcountry  (2015)[/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6052.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Back In Time  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7961.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Avengers Age of Ultron  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6098.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Assassin  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/6051.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Arthur and Merlin  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7968.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Area 51  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6003.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B][/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7962.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Ant-Man  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/11428.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Angel  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6009.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Amnesiac  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7868.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]American Hero  (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/9068.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]AMERICAN BEACH HOUSE  (2015) [/B][/I][/COLOR] 
+http://213.136.90.30:8000/movie/test/test/6008.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Altar  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6254.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]All American Bikini Car Wash  (2015)[/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/7956.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]Air (2015) [/B][/I][/COLOR]  
+http://213.136.90.30:8000/movie/test/test/7921.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]AGE OF ADALINE  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5890.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]A Brilliant Young Mind  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/6095.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B]3 Headed Shark Attack  (2015) [/B][/I][/COLOR] 
+http://213.136.90.30:8000/movie/test/test/7905.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B] 10 000 Saints  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/7923.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",[COLOR Gold ][I][B](3D) Seventh Son  (2015) [/B][/I][/COLOR]   
+http://213.136.90.30:8000/movie/test/test/5255.mkv
+
+#EXTINF:-1 group-title="RELIGIOSOS",[COLOR blue]» » RELIGIOSOS« «[/COLOR]
+http://0.0.0.0:1234 (ARGIVAI)
+#EXTINF:-1 tvg-id="" tvg-logo="Capelinha_de_Fatima_TV_Fatima.png" group-title="PORTUGAL",CAPELINHA FÁTIMA
+rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
+
+#EXTINF:-1 tvg-id="itpvbrasil - Canção Nova Canal 51 UHF" tvg-logo="CnoVA.jpg" tvg-logo="http://douglasduffor.com.br/CnoVA.jpg" group-title="RELIGIOSOS", TV CANCAO NOVA HD
+http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8?
+#EXTINF:-1 group-title="MUSICA",[COLOR blue]» » MUSICA« «[/COLOR]
+http://0.0.0.0:1234 (ARGIVAI)
+
+#EXTINF:-1 tvg-id="RadioU TV" tvg-logo="RadioU TV.png" group-title="Música", TV HD 
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
+#EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA", DJING  
+http://cdn.djing.com/tv/05.m3u8
+#EXTINF:-1 tvg-logo="rmc.png" group-title="MUSICA", RADIO MONTE CARLO TV  
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1 tvg-logo="Capital TV.png" group-title="MUSICA", CAPITAL TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0  tvg-id="mtvportugal.pt" group-title="Música" tvg-logo="MTV.png" tvg-name="mtvportugal.pt", MTV DANCE
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="ANTENA1.png", Rádio Antena 1
+mms://195.245.168.21/antena1
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="ANTENA2.png", Rádio Antena 2
+mms://195.245.168.21/antena2
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="ANTENA3.png", Rádio Antena3
+mms://195.245.168.21/antena3
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="COMERCIAL.png",Rádio Comercial
+mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="RFM.png",Rádio RFM
+http://7719.live.streamtheworld.com/RFM_SC
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="M80.png",Rádio M80
+rtmp://195.23.102.208/m80lc playpath=m80lc.sdp 
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="ORBITAL.png",Rádio Orbital
+mms://stream.radio.com.pt/ROLI-ENC-401
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="CIDADE.png", Rádio Cidade FM
+mms://195.23.102.196/cidadecbr96
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="RENASCENCA.png", Rádio Renascença
+http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="MEGAFM.png", Rádio MegaFM
+http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="TSF.png", Rádio TSF
+mmsh://emdirecto.tsf.pt/tsfdirecto?MSWMExt=.asf
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="VODAFONE.png", Rádio Vodafone FM
+rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?ts=1425470563156 live=1 pageUrl=http://www.vodafone.fm/
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="RADAR.png", Rádio Radar
+http://stream.radio.com.pt:8497/stream
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="AMALIA.png", Rádio Amália
+http://stream.radio.com.pt:9496/stream
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="SMOOTH.png", Rádio Smooth FM
+rtmp://195.23.102.206/smoothlc playpath=smoothlc.sdp 
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="POPULARFM.png", Rádio Popular FM
+http://195.8.58.150:32281/
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="RCSINTRA.png", Rádio Clube de Sintra
+mms://stream.radio.com.pt/ROLI-ENC-445
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="NOVAERA.png", Rádio Nova Era
+mms://stream.radio.com.pt/ROLI-ENC-478
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="OXIGENIO.png", Rádio Oxigénio
+mms://stream.radio.com.pt/ROLI-ENC-498
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="MARGINAL.png", Rádio Marginal
+mms://stream.radio.com.pt/ROLI-ENC-499
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="LAMEGO.png", Rádio Clube Lamego
+rtmp://aacplus.stream10.net:1935/sfera playpath=7050 swfUrl=http://www.rclamego.pt/player/aacplayer.swf pageUrl=http://www.rclamego.pt/player/aacplayer.swf
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="DOURONACIONAL.png", Rádio Douro Nacional
+http://94.23.76.235:9996/;
+#EXTINF:0 radio="true" group-title="Rádio" tvg-logo="EMIGRANTE.png", Rádio Clube Emigrante
+http://198.24.186.218:8172/;?1425436566045.mp3
+#EXTINF:-1 group-title="PRAIAS",[COLOR red]» » PRAIAS« «[/COLOR]
+http://0.0.0.0:1234 (ARGIVAI)
+#EXTINF:,LAGIDE E BAÍA - PENICHE [WEBCAM]
+http://213.13.26.7:1936/live/peniche.stream/livestream.m3u8
+#EXTINF:,LEÇA DA PALMEIRA - WEBCAM 
+http://213.13.26.7:1936/live/leca.stream/livestream.m3u8
+#EXTINF:,LIGA MOCHE SURFE - WEBCAM 
+http://213.13.26.7:1936/live/surfstream.stream/livestream.m3u8
+#EXTINF:,MATOSINHOS - WEBCAM
+http://213.13.26.7:1936/live/matosinhos.stream/livestream.m3u8
+#EXTINF:,MADEIRA JARDIM DO MAR [WEBCAM]
+http://213.13.26.7:1936/live/jardim.stream/livestream.m3u8
+#EXTINF:,PRAIA CARCAVELOS - WEBCAM
+http://213.13.26.7:1936/live/carcavelos.stream/livestream.m3u8
+#EXTINF:,PRAIA COSTA DA CAPARICA [WEBCAM]
+http://213.13.26.7:1936/live/costa.stream/livestream.m3u8
+#EXTINF:,PRAIA DA ERICEIRA [WEBCAM]
+http://130.185.85.5:1935/live/ericeira.stream/livestream.m3u8
+#EXTINF:,PRAIA DA ERICEIRA - WEBCAM
+http://213.13.26.7:1936/live/ericeira.stream/livestream.m3u8
+#EXTINF:,PRAIA DA LUZ - ALGARVE [WEBCAM]
+http://213.13.26.7:1936/live/luz.stream/livestream.m3u8
+#EXTINF:,PRAIA DA LUZ - WEBCAM
+http://213.13.26.7:1936/live/luz.stream/livestream.m3u8
+#EXTINF:,PRAIA DE AVEIRO - WEBCAM 
+http://213.13.26.7:1936/live/aveiro.stream/livestream.m3u8
+#EXTINF:,PRAIA DE CARCAVELOS [WEBCAM]
+http://130.185.85.5:1935/live/carcavelos.stream/livestream.m3u8
+#EXTINF:,PRAIA DE ESPINHO [WEBCAM]
+http://130.185.85.5:1935/live/espinho.stream/livestream.m3u8
+#EXTINF:,PRAIA DE ESPINHO - WEBCAM 
+http://213.13.26.7:1936/live/espinho.stream/livestream.m3u8
+#EXTINF:,PRAIA DE MATOSINHOS - WEBCAM
+http://130.185.85.5:1935/live/matosinhos.stream/livestream.m3u8
+#EXTINF:,PRAIA DE PENICHE - WEBCAM 
+http://213.13.26.7:1936/live/peniche.stream/livestream.m3u8
+#EXTINF:,PRAIA DE SÃO PEDRO - WEBCAM 
+http://213.13.26.7:1936/live/saopedro.stream/livestream.m3u8
+#EXTINF:,PRAIA DE SÃO TORPES - WEBCAM 
+http://213.13.26.7:1936/live/saotorpes.stream/livestream.m3u8
+#EXTINF:,PRAIA DO GUINCHO [WEBCAM]
+http://130.185.85.5:1935/live/guincho.stream/livestream.m3u8
+#EXTINF:,PRAIA DO GUINCHO - WEBCAM 
+http://213.13.26.7:1936/live/guincho.stream/livestream.m3u8
+#EXTINF:,PRAIA DO NORTE - WEBCAM
+http://213.13.26.7:1936/live/norte.stream/livestream.m3u8
+#EXTINF:,PRAIA GRANDE - WEBCAM
+http://213.13.26.7:1936/live/grande.stream/livestream.m3u8
+#EXTINF:,PRAIA LEÇA DA PALMEIRA [WEBCAM]
+http://130.185.85.5:1935/live/leca.stream/livestream.m3u8
+#EXTINF:,PRAIA MATOSINHOS - WEBCAM
+http://213.13.26.7:1936/live/matosinhos.stream/livestream.m3u8
+#EXTINF:,PRAIA SÃO PEDRO E BAFUREIRA [WEBCAM]
+http://213.13.26.7:1936/live/saopedro.stream/livestream.m3u8
+#EXTINF:,PRAIA SUPER TUBOS - WEBCAM
+http://213.13.26.7:1936/live/supertubos.stream/livestream.m3u8
+#EXTINF:,RIBEIRA - WEBCAM
+http://213.13.26.7:1936/live/ribeira.stream/livestream.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="MUNDO.png" tvg-name="MUNDO", Amesterdão
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=4098.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/netherlands/amsterdam/
+#EXTINF:-1 group-title="Mundo" tvg-logo="MUNDO.png" tvg-name="MUNDO", Londres
+#EXTINF:-1 group-title="Mundo" tvg-logo="MUNDO.png" tvg-name="MUNDO", Madrid
+http://5.196.29.86/hls/live.m3u8?a=aa9f738b9sfr92es6cg4fi03f0
+#EXTINF:-1 group-title="Mundo" tvg-logo="MUNDO.png" tvg-name="MUNDO", Moscovo
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=moscowHD1.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/world/russia/moscow/?cam=moscow_hd
+#EXTINF:-1 group-title="Mundo" tvg-logo="MUNDO.png" tvg-name="MUNDO", New York Times Square
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=4017timessquare.flv swfUrl=http://www.earthcam.com/swf/images/stream_viewer.swf?anticache=20140212&imageOverlay=&path=rtmp://video4.earthcam.com/fecnetwork/4017timessquare.flv&loadingimage=&buffer=2&volume=0 pageUrl=http://www.earthcam.com/
+#EXTINF:-1 group-title="Mundo" tvg-logo="MUNDO.png" tvg-name="MUNDO", Rio de Janeiro 
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=6593.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/brazil/riodejaneiro/?cam=rio_copacabana
